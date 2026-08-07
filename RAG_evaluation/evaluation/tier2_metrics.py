@@ -206,7 +206,8 @@ def compute_tier2_metrics(
     llm: LLMWrapper,
     original_retrieved_ids: list,
     perturbed_retrieved_ids: list,
-    embed_model = None
+    embed_model = None,
+    fast_mode: bool = False
 ) -> dict:
     """
     Computes Tier 2A metrics:
@@ -219,16 +220,22 @@ def compute_tier2_metrics(
     """
     # 1. Context Precision (Objective metric calculated mathematically against ground truth)
     ground_truth_docs = [ground_truth] # treat the ground truth answer string as a match point
-    relevance_array = [is_relevant(doc, ground_truth_docs) for doc in retrieved_docs]
-    context_precision = compute_average_precision(relevance_array)
+    if not fast_mode:
+        relevance_array = [is_relevant(doc, ground_truth_docs) for doc in retrieved_docs]
+        context_precision = compute_average_precision(relevance_array)
+    else:
+        context_precision = 0.0
     
     # 2. Robustness (Objective metric based on query perturbations)
-    orig_set = set(original_retrieved_ids)
-    pert_set = set(perturbed_retrieved_ids)
-    if orig_set or pert_set:
-        robustness = len(orig_set.intersection(pert_set)) / len(orig_set.union(pert_set))
+    if not fast_mode:
+        orig_set = set(original_retrieved_ids)
+        pert_set = set(perturbed_retrieved_ids)
+        if orig_set or pert_set:
+            robustness = len(orig_set.intersection(pert_set)) / len(orig_set.union(pert_set))
+        else:
+            robustness = 1.0
     else:
-        robustness = 1.0
+        robustness = 0.0
         
     # Check if we are running under the local fallback generator
     is_fallback = (llm.__class__.__name__ == "FallbackLLM")
@@ -236,8 +243,13 @@ def compute_tier2_metrics(
     # Compute heuristic baselines
     h_faith = heuristic_faithfulness(generated_answer, retrieved_docs)
     h_relev = heuristic_answer_relevancy(query, generated_answer, embed_model)
-    h_rec = heuristic_context_recall(ground_truth, retrieved_docs)
-    h_noise = heuristic_noise_sensitivity(retrieved_docs, ground_truth_docs, generated_answer, query)
+    
+    if not fast_mode:
+        h_rec = heuristic_context_recall(ground_truth, retrieved_docs)
+        h_noise = heuristic_noise_sensitivity(retrieved_docs, ground_truth_docs, generated_answer, query)
+    else:
+        h_rec = 0.0
+        h_noise = 0.0
     
     if is_fallback:
         # Fallback mode uses pure mathematical heuristics
@@ -288,41 +300,45 @@ def compute_tier2_metrics(
     llm_relevancy = parse_llm_score(relevancy_resp, default=h_relev)
     relevancy = 0.5 * llm_relevancy + 0.5 * h_relev
     
-    # 3. LLM Context Recall
-    recall_prompt = (
-        "Compare the Ground Truth answer and the retrieved documents.\n"
-        "Check if the key information and details present in the Ground Truth answer are fully covered by the retrieved documents.\n"
-        "Output your response strictly in the following JSON format:\n"
-        "{\n"
-        '  "reasoning": "your step-by-step reasoning",\n'
-        '  "score": 0.95\n'
-        "}\n"
-        "Where score is a float between 0.0 and 1.0 (1.0 = all details of ground truth are present in the retrieved docs, 0.0 = none are).\n\n"
-        f"Ground Truth:\n{ground_truth}\n\n"
-        f"Retrieved Documents:\n{context_text}\n"
-    )
-    recall_resp = llm.generate(recall_prompt)
-    llm_context_recall = parse_llm_score(recall_resp, default=h_rec)
-    context_recall = 0.5 * llm_context_recall + 0.5 * h_rec
-    
-    # 4. LLM Noise Sensitivity
-    noise_prompt = (
-        "Analyze the retrieved documents, the user query, and the generated answer.\n"
-        "Identify if there are any documents in the context that are irrelevant to the user query (noise).\n"
-        "Determine if the generated answer was misled, corrupted, or confused by the information in those irrelevant documents.\n"
-        "Output your response strictly in the following JSON format:\n"
-        "{\n"
-        '  "reasoning": "your step-by-step reasoning",\n'
-        '  "score": 0.1\n'
-        "}\n"
-        "Where score is a float between 0.0 and 1.0 (0.0 = completely unaffected by noise/correct, 1.0 = heavily misled or corrupted by noise).\n\n"
-        f"Query: {query}\n\n"
-        f"Context Documents:\n{context_text}\n\n"
-        f"Generated Answer:\n{generated_answer}\n"
-    )
-    noise_resp = llm.generate(noise_prompt)
-    llm_noise_sensitivity = parse_llm_score(noise_resp, default=h_noise)
-    noise_sensitivity = 0.5 * llm_noise_sensitivity + 0.5 * h_noise
+    if not fast_mode:
+        # 3. LLM Context Recall
+        recall_prompt = (
+            "Compare the Ground Truth answer and the retrieved documents.\n"
+            "Check if the key information and details present in the Ground Truth answer are fully covered by the retrieved documents.\n"
+            "Output your response strictly in the following JSON format:\n"
+            "{\n"
+            '  "reasoning": "your step-by-step reasoning",\n'
+            '  "score": 0.95\n'
+            "}\n"
+            "Where score is a float between 0.0 and 1.0 (1.0 = all details of ground truth are present in the retrieved docs, 0.0 = none are).\n\n"
+            f"Ground Truth:\n{ground_truth}\n\n"
+            f"Retrieved Documents:\n{context_text}\n"
+        )
+        recall_resp = llm.generate(recall_prompt)
+        llm_context_recall = parse_llm_score(recall_resp, default=h_rec)
+        context_recall = 0.5 * llm_context_recall + 0.5 * h_rec
+        
+        # 4. LLM Noise Sensitivity
+        noise_prompt = (
+            "Analyze the retrieved documents, the user query, and the generated answer.\n"
+            "Identify if there are any documents in the context that are irrelevant to the user query (noise).\n"
+            "Determine if the generated answer was misled, corrupted, or confused by the information in those irrelevant documents.\n"
+            "Output your response strictly in the following JSON format:\n"
+            "{\n"
+            '  "reasoning": "your step-by-step reasoning",\n'
+            '  "score": 0.1\n'
+            "}\n"
+            "Where score is a float between 0.0 and 1.0 (0.0 = completely unaffected by noise/correct, 1.0 = heavily misled or corrupted by noise).\n\n"
+            f"Query: {query}\n\n"
+            f"Context Documents:\n{context_text}\n\n"
+            f"Generated Answer:\n{generated_answer}\n"
+        )
+        noise_resp = llm.generate(noise_prompt)
+        llm_noise_sensitivity = parse_llm_score(noise_resp, default=h_noise)
+        noise_sensitivity = 0.5 * llm_noise_sensitivity + 0.5 * h_noise
+    else:
+        context_recall = 0.0
+        noise_sensitivity = 0.0
     
     return {
         "Faithfulness": round(faithfulness, 4),

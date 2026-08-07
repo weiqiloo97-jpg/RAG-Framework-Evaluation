@@ -1,0 +1,4 @@
+Model,Difficulty,Count,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Noise Sensitivity,Robustness
+Hybrid + Rerank,Easy,7,0.8395,0.8820,0.0000,0.0000,0.0000,0.0000
+Hybrid + Rerank,Medium,7,0.7597,0.7585,0.0000,0.0000,0.0000,0.0000
+Hybrid + Rerank,Hard,6,0.8889,0.7815,0.0000,0.0000,0.0000,0.0000

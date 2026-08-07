@@ -1,0 +1,3370 @@
+{
+  "0": {
+    "query": "Who directed The Great Train Robbery?",
+    "generated_answer": "According to document [1], the director of \"The Great Train Robbery\" is Edwin S. Porter.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1392f29313caabcdaf17",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1394f29313caabcde70b"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1392f29313caabcdaf17",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1392f29313caabcdab4a"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd42e8",
+        "text": "Title: The Great Train Robbery. Genres: Short, Western. Cast: A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes. Directors: Edwin S. Porter. Countries: USA. Languages: English. Year: 1903. Awards: 1 win.",
+        "metadata": {
+          "num_mflix_comments": 0,
+          "genres": "Short, Western",
+          "viewer_rating": 3.7,
+          "directors": "Edwin S. Porter",
+          "imdb_votes": 9847,
+          "type": "movie",
+          "title": "The Great Train Robbery",
+          "rated": "TV-G",
+          "cast": "A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes",
+          "award_nominations": 0,
+          "runtime": 11,
+          "award_wins": 1,
+          "imdb_rating": 7.4,
+          "languages": "English",
+          "year": 1903,
+          "countries": "USA",
+          "viewer_meter": 75,
+          "source": "movies"
+        },
+        "score": 0.9998
+      },
+      {
+        "id": "movie_573a1394f29313caabcded03",
+        "text": "Title: Strangers on a Train. Genres: Crime, Film-Noir, Thriller. Cast: Farley Granger, Ruth Roman, Robert Walker, Leo G. Carroll. Directors: Alfred Hitchcock. Writers: Raymond Chandler, Czenzi Ormonde, Whitfield Cook, Patricia Highsmith. Countries: USA. Languages: English, French. Year: 1951. Awards: Nominated for 1 Oscar. Another 1 win & 1 nomination.",
+        "metadata": {
+          "runtime": 101,
+          "viewer_rating": 4.1,
+          "languages": "English, French",
+          "imdb_rating": 8.1,
+          "award_nominations": 1,
+          "viewer_meter": 93,
+          "num_mflix_comments": 1,
+          "rated": "APPROVED",
+          "source": "movies",
+          "year": 1951,
+          "imdb_votes": 86343,
+          "directors": "Alfred Hitchcock",
+          "award_wins": 2,
+          "type": "movie",
+          "cast": "Farley Granger, Ruth Roman, Robert Walker, Leo G. Carroll",
+          "title": "Strangers on a Train",
+          "countries": "USA",
+          "genres": "Crime, Film-Noir, Thriller"
+        },
+        "score": 0.2275
+      },
+      {
+        "id": "movie_573a1392f29313caabcdaf17",
+        "text": "Title: The Robber Symphony. Genres: Musical. Cast: Franèoise Rosay, Magda Sonja, George Graves, Jim Gèrald. Directors: Friedrich Feher. Writers: Friedrich Feher, Anton Kuhl, Jack Trendall. Countries: UK. Languages: French, English. Year: 1937. Awards: 1 win & 1 nomination.",
+        "metadata": {
+          "countries": "UK",
+          "award_wins": 1,
+          "genres": "Musical",
+          "languages": "French, English",
+          "directors": "Friedrich Feher",
+          "type": "movie",
+          "rated": "",
+          "cast": "Franèoise Rosay, Magda Sonja, George Graves, Jim Gèrald",
+          "imdb_rating": 7.4,
+          "imdb_votes": 78,
+          "year": 1937,
+          "award_nominations": 1,
+          "num_mflix_comments": 0,
+          "runtime": 136,
+          "viewer_meter": 0,
+          "source": "movies",
+          "viewer_rating": 4.0,
+          "title": "The Robber Symphony"
+        },
+        "score": 0.1993
+      },
+      {
+        "id": "movie_573a1394f29313caabce0138",
+        "text": "Title: The Great Locomotive Chase. Genres: Action, Adventure, Family. Cast: Fess Parker, Jeffrey Hunter, Jeff York, John Lupton. Directors: Francis D. Lyon. Writers: Lawrence Edward Watkin. Countries: USA. Languages: English. Year: 1956. Awards: 1 nomination.",
+        "metadata": {
+          "genres": "Action, Adventure, Family",
+          "imdb_votes": 657,
+          "year": 1956,
+          "countries": "USA",
+          "runtime": 85,
+          "award_nominations": 1,
+          "rated": "APPROVED",
+          "num_mflix_comments": 0,
+          "viewer_rating": 3.3,
+          "title": "The Great Locomotive Chase",
+          "viewer_meter": 53,
+          "award_wins": 0,
+          "languages": "English",
+          "cast": "Fess Parker, Jeffrey Hunter, Jeff York, John Lupton",
+          "type": "movie",
+          "source": "movies",
+          "imdb_rating": 7.1,
+          "directors": "Francis D. Lyon"
+        },
+        "score": 0.1813
+      },
+      {
+        "id": "movie_573a1394f29313caabcde70b",
+        "text": "Title: The Great Manhunt. Genres: Drama, Romance, Thriller. Cast: Douglas Fairbanks Jr., Jack Hawkins, Glynis Johns, Walter Rilla. Directors: Sidney Gilliat. Writers: Roy Huggins, Sidney Gilliat. Countries: UK. Languages: English. Year: 1950. Awards: Nominated for 1 BAFTA Film Award. Another 1 nomination.",
+        "metadata": {
+          "viewer_rating": 0.0,
+          "cast": "Douglas Fairbanks Jr., Jack Hawkins, Glynis Johns, Walter Rilla",
+          "imdb_rating": 7.0,
+          "award_wins": 0,
+          "source": "movies",
+          "runtime": 97,
+          "award_nominations": 2,
+          "languages": "English",
+          "type": "movie",
+          "directors": "Sidney Gilliat",
+          "year": 1950,
+          "title": "The Great Manhunt",
+          "num_mflix_comments": 1,
+          "imdb_votes": 144,
+          "genres": "Drama, Romance, Thriller",
+          "rated": "PASSED",
+          "viewer_meter": 0,
+          "countries": "UK"
+        },
+        "score": 0.0938
+      }
+    ],
+    "query_time": 0.3237608999988879
+  },
+  "1": {
+    "query": "What genres does Gertie the Dinosaur belong to?",
+    "generated_answer": "According to Document [1], Gertie the Dinosaur belongs to the genres \"Animation\", \"Short\", and \"Comedy\".",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1392f29313caabcda9a8",
+      "movie_573a1393f29313caabcdc9ba",
+      "movie_573a1392f29313caabcdb4d5",
+      "movie_573a1394f29313caabcdfb13"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1392f29313caabcda9a8",
+      "movie_573a1394f29313caabcdfb13",
+      "movie_573a1394f29313caabcdf772",
+      "movie_573a1394f29313caabce0342"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd50e5",
+        "text": "Title: Gertie the Dinosaur. Genres: Animation, Short, Comedy. Cast: Winsor McCay, George McManus, Roy L. McCardell. Directors: Winsor McCay. Writers: Winsor McCay. Countries: USA. Languages: English. Year: 1914. Awards: 1 win.",
+        "metadata": {
+          "directors": "Winsor McCay",
+          "rated": "",
+          "award_wins": 1,
+          "viewer_meter": 0,
+          "countries": "USA",
+          "cast": "Winsor McCay, George McManus, Roy L. McCardell",
+          "genres": "Animation, Short, Comedy",
+          "imdb_votes": 1837,
+          "num_mflix_comments": 0,
+          "viewer_rating": 3.7,
+          "type": "movie",
+          "award_nominations": 0,
+          "imdb_rating": 7.3,
+          "runtime": 12,
+          "year": 1914,
+          "languages": "English",
+          "title": "Gertie the Dinosaur",
+          "source": "movies"
+        },
+        "score": 0.9994
+      },
+      {
+        "id": "movie_573a1392f29313caabcda9a8",
+        "text": "Title: The New Gulliver. Genres: Animation, Fantasy. Cast: Vladimir Konstantinov, Ivan Yudin, Shaolin Santiago. Directors: Aleksandr Ptushko, A. Vanichkin. Writers: Aleksandr Ptushko, Grigoriy Roshal, Jonathan Swift. Countries: Soviet Union. Languages: Russian. Year: 1935. Awards: 1 win.",
+        "metadata": {
+          "award_wins": 1,
+          "type": "movie",
+          "viewer_meter": 50,
+          "languages": "Russian",
+          "cast": "Vladimir Konstantinov, Ivan Yudin, Shaolin Santiago",
+          "num_mflix_comments": 0,
+          "year": 1935,
+          "source": "movies",
+          "runtime": 75,
+          "genres": "Animation, Fantasy",
+          "directors": "Aleksandr Ptushko, A. Vanichkin",
+          "imdb_rating": 6.9,
+          "title": "The New Gulliver",
+          "viewer_rating": 3.7,
+          "countries": "Soviet Union",
+          "award_nominations": 0,
+          "rated": "",
+          "imdb_votes": 126
+        },
+        "score": 0.0004
+      },
+      {
+        "id": "movie_573a1393f29313caabcdc9ba",
+        "text": "Title: The Male Animal. Genres: Comedy, Romance. Cast: Henry Fonda, Olivia de Havilland, Joan Leslie, Jack Carson. Directors: Elliott Nugent. Writers: Julius J. Epstein, Philip G. Epstein, Stephen Morehouse Avery, James Thurber. Countries: USA. Languages: English. Year: 1942. Awards: 1 win.",
+        "metadata": {
+          "rated": "APPROVED",
+          "award_wins": 1,
+          "source": "movies",
+          "countries": "USA",
+          "directors": "Elliott Nugent",
+          "viewer_meter": 59,
+          "genres": "Comedy, Romance",
+          "viewer_rating": 3.3,
+          "num_mflix_comments": 0,
+          "title": "The Male Animal",
+          "type": "movie",
+          "imdb_votes": 808,
+          "award_nominations": 0,
+          "runtime": 101,
+          "year": 1942,
+          "languages": "English",
+          "cast": "Henry Fonda, Olivia de Havilland, Joan Leslie, Jack Carson",
+          "imdb_rating": 6.9
+        },
+        "score": 0.0003
+      },
+      {
+        "id": "movie_573a1392f29313caabcdb4d5",
+        "text": "Title: They Won't Forget. Genres: Drama, Film-Noir, Mystery. Cast: Claude Rains, Gloria Dickson, Edward Norris, Otto Kruger. Directors: Mervyn LeRoy. Writers: Ward Greene, Robert Rossen, Aben Kandel. Countries: USA. Languages: English. Year: 1937. Awards: 1 win.",
+        "metadata": {
+          "award_wins": 1,
+          "languages": "English",
+          "source": "movies",
+          "viewer_rating": 3.8,
+          "imdb_votes": 926,
+          "num_mflix_comments": 0,
+          "cast": "Claude Rains, Gloria Dickson, Edward Norris, Otto Kruger",
+          "rated": "APPROVED",
+          "directors": "Mervyn LeRoy",
+          "runtime": 95,
+          "title": "They Won't Forget",
+          "countries": "USA",
+          "genres": "Drama, Film-Noir, Mystery",
+          "year": 1937,
+          "imdb_rating": 7.4,
+          "type": "movie",
+          "viewer_meter": 83,
+          "award_nominations": 0
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1394f29313caabcdfb13",
+        "text": "Title: Sound of the Mountain. Genres: Drama. Cast: Setsuko Hara, Sè Yamamura, Ken Uehara, Yèko Sugi. Directors: Mikio Naruse. Writers: Yasunari Kawabata, Yèko Mizuki. Countries: Japan. Languages: Japanese. Year: 1954. Awards: 1 win.",
+        "metadata": {
+          "source": "movies",
+          "countries": "Japan",
+          "cast": "Setsuko Hara, Sè Yamamura, Ken Uehara, Yèko Sugi",
+          "rated": "",
+          "num_mflix_comments": 0,
+          "year": 1954,
+          "directors": "Mikio Naruse",
+          "type": "movie",
+          "award_wins": 1,
+          "languages": "Japanese",
+          "genres": "Drama",
+          "imdb_votes": 860,
+          "viewer_meter": 94,
+          "title": "Sound of the Mountain",
+          "viewer_rating": 4.2,
+          "award_nominations": 0,
+          "runtime": 96,
+          "imdb_rating": 8.1
+        },
+        "score": 0.0001
+      }
+    ],
+    "query_time": 0.39570629999798257
+  },
+  "2": {
+    "query": "Who directed Traffic in Souls?",
+    "generated_answer": "According to document [1], the directors of \"Traffic in Souls\" are George Loane Tucker.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1393f29313caabcdda01",
+      "movie_573a1391f29313caabcd9688",
+      "movie_573a1392f29313caabcd9d4c",
+      "movie_573a1394f29313caabcdf539"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1393f29313caabcdc558",
+      "movie_573a1392f29313caabcda482"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd4eaf",
+        "text": "Title: Traffic in Souls. Genres: Crime, Drama. Cast: Jane Gail, Ethel Grandin, William H. Turner, Matt Moore. Directors: George Loane Tucker. Countries: USA. Languages: English. Year: 1913. Awards: 1 win.",
+        "metadata": {
+          "languages": "English",
+          "source": "movies",
+          "type": "movie",
+          "viewer_rating": 3.0,
+          "imdb_rating": 6.0,
+          "award_wins": 1,
+          "directors": "George Loane Tucker",
+          "rated": "TV-PG",
+          "cast": "Jane Gail, Ethel Grandin, William H. Turner, Matt Moore",
+          "viewer_meter": 57,
+          "award_nominations": 0,
+          "genres": "Crime, Drama",
+          "countries": "USA",
+          "year": 1913,
+          "runtime": 88,
+          "imdb_votes": 371,
+          "num_mflix_comments": 1,
+          "title": "Traffic in Souls"
+        },
+        "score": 0.9998
+      },
+      {
+        "id": "movie_573a1393f29313caabcdda01",
+        "text": "Title: Body and Soul. Genres: Drama, Film-Noir, Sport. Cast: John Garfield, Lilli Palmer, Hazel Brooks, Anne Revere. Directors: Robert Rossen. Writers: Abraham Polonsky. Countries: USA. Languages: English. Year: 1947. Awards: Won 1 Oscar. Another 1 win & 2 nominations.",
+        "metadata": {
+          "num_mflix_comments": 1,
+          "languages": "English",
+          "directors": "Robert Rossen",
+          "award_nominations": 2,
+          "rated": "APPROVED",
+          "imdb_rating": 7.8,
+          "countries": "USA",
+          "genres": "Drama, Film-Noir, Sport",
+          "cast": "John Garfield, Lilli Palmer, Hazel Brooks, Anne Revere",
+          "viewer_rating": 3.9,
+          "title": "Body and Soul",
+          "type": "movie",
+          "year": 1947,
+          "award_wins": 2,
+          "source": "movies",
+          "runtime": 104,
+          "viewer_meter": 89,
+          "imdb_votes": 2970
+        },
+        "score": 0.0983
+      },
+      {
+        "id": "movie_573a1391f29313caabcd9688",
+        "text": "Title: A Free Soul. Genres: Crime, Drama, Romance. Cast: Norma Shearer, Leslie Howard, Lionel Barrymore, Clark Gable. Directors: Clarence Brown. Writers: Adela Rogers St. Johns, John Meehan, Becky Gardiner. Countries: USA. Languages: English. Year: 1931. Awards: Won 1 Oscar. Another 2 nominations.",
+        "metadata": {
+          "runtime": 93,
+          "award_nominations": 3,
+          "countries": "USA",
+          "source": "movies",
+          "rated": "PASSED",
+          "directors": "Clarence Brown",
+          "viewer_meter": 58,
+          "year": 1931,
+          "viewer_rating": 3.5,
+          "type": "movie",
+          "title": "A Free Soul",
+          "languages": "English",
+          "genres": "Crime, Drama, Romance",
+          "num_mflix_comments": 1,
+          "imdb_votes": 1417,
+          "imdb_rating": 6.7,
+          "cast": "Norma Shearer, Leslie Howard, Lionel Barrymore, Clark Gable",
+          "award_wins": 0
+        },
+        "score": 0.0697
+      },
+      {
+        "id": "movie_573a1392f29313caabcd9d4c",
+        "text": "Title: Trouble in Paradise. Genres: Comedy, Crime, Romance. Cast: Miriam Hopkins, Kay Francis, Herbert Marshall, Charles Ruggles. Directors: Ernst Lubitsch. Writers: Samson Raphaelson, Grover Jones, Aladar Laszlo. Countries: USA. Languages: English, Italian, Russian, Spanish, German. Year: 1932. Awards: 2 wins.",
+        "metadata": {
+          "imdb_votes": 9101,
+          "imdb_rating": 8.2,
+          "runtime": 83,
+          "genres": "Comedy, Crime, Romance",
+          "type": "movie",
+          "year": 1932,
+          "source": "movies",
+          "title": "Trouble in Paradise",
+          "award_wins": 2,
+          "rated": "PASSED",
+          "award_nominations": 0,
+          "viewer_rating": 4.2,
+          "languages": "English, Italian, Russian, Spanish, German",
+          "countries": "USA",
+          "directors": "Ernst Lubitsch",
+          "viewer_meter": 91,
+          "num_mflix_comments": 0,
+          "cast": "Miriam Hopkins, Kay Francis, Herbert Marshall, Charles Ruggles"
+        },
+        "score": 0.0086
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf539",
+        "text": "Title: Pickup on South Street. Genres: Crime, Film-Noir, Thriller. Cast: Richard Widmark, Jean Peters, Thelma Ritter, Murvyn Vye. Directors: Samuel Fuller. Writers: Samuel Fuller, Dwight Taylor. Countries: USA. Languages: English. Year: 1953. Awards: Nominated for 1 Oscar. Another 1 win & 1 nomination.",
+        "metadata": {
+          "viewer_rating": 4.0,
+          "title": "Pickup on South Street",
+          "type": "movie",
+          "genres": "Crime, Film-Noir, Thriller",
+          "countries": "USA",
+          "source": "movies",
+          "award_nominations": 1,
+          "imdb_rating": 7.8,
+          "viewer_meter": 90,
+          "cast": "Richard Widmark, Jean Peters, Thelma Ritter, Murvyn Vye",
+          "directors": "Samuel Fuller",
+          "num_mflix_comments": 0,
+          "imdb_votes": 8535,
+          "runtime": 80,
+          "award_wins": 2,
+          "year": 1953,
+          "languages": "English",
+          "rated": "APPROVED"
+        },
+        "score": 0.0064
+      }
+    ],
+    "query_time": 0.3233498000045074
+  },
+  "3": {
+    "query": "What year was A Corner in Wheat released?",
+    "generated_answer": "According to Document [1], \"A Corner in Wheat\" was released in the year 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcdc207",
+      "movie_573a1394f29313caabcdfea1",
+      "movie_573a1391f29313caabcd7f11",
+      "movie_573a1394f29313caabcdfd44"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcde750",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1394f29313caabcdfdfd"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd446f",
+        "text": "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909. Awards: 1 win.",
+        "metadata": {
+          "viewer_rating": 3.6,
+          "rated": "G",
+          "num_mflix_comments": 1,
+          "viewer_meter": 73,
+          "countries": "USA",
+          "source": "movies",
+          "languages": "English",
+          "type": "movie",
+          "imdb_votes": 1375,
+          "award_nominations": 0,
+          "runtime": 14,
+          "title": "A Corner in Wheat",
+          "year": 1909,
+          "imdb_rating": 6.6,
+          "genres": "Short, Drama",
+          "directors": "D.W. Griffith",
+          "award_wins": 1,
+          "cast": "Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson"
+        },
+        "score": 0.9993
+      },
+      {
+        "id": "movie_573a1393f29313caabcdc207",
+        "text": "Title: The Shop Around the Corner. Genres: Comedy, Drama, Romance. Cast: Margaret Sullavan, James Stewart, Frank Morgan, Joseph Schildkraut. Directors: Ernst Lubitsch. Writers: Samson Raphaelson, Miklès Lèszlè. Countries: USA. Languages: English. Year: 1940. Awards: 1 win.",
+        "metadata": {
+          "viewer_rating": 4.1,
+          "directors": "Ernst Lubitsch",
+          "source": "movies",
+          "cast": "Margaret Sullavan, James Stewart, Frank Morgan, Joseph Schildkraut",
+          "countries": "USA",
+          "award_wins": 1,
+          "genres": "Comedy, Drama, Romance",
+          "runtime": 99,
+          "type": "movie",
+          "year": 1940,
+          "languages": "English",
+          "viewer_meter": 92,
+          "award_nominations": 0,
+          "imdb_rating": 8.1,
+          "title": "The Shop Around the Corner",
+          "imdb_votes": 18488,
+          "rated": "PASSED",
+          "num_mflix_comments": 0
+        },
+        "score": 0.0188
+      },
+      {
+        "id": "movie_573a1394f29313caabcdfea1",
+        "text": "Title: The Seven Year Itch. Genres: Comedy, Romance. Cast: Marilyn Monroe, Tom Ewell, Evelyn Keyes, Sonny Tufts. Directors: Billy Wilder. Writers: Billy Wilder, George Axelrod, George Axelrod. Countries: USA. Languages: English. Year: 1955. Awards: Won 1 Golden Globe. Another 3 nominations.",
+        "metadata": {
+          "award_wins": 0,
+          "genres": "Comedy, Romance",
+          "num_mflix_comments": 0,
+          "languages": "English",
+          "award_nominations": 4,
+          "source": "movies",
+          "title": "The Seven Year Itch",
+          "rated": "APPROVED",
+          "year": 1955,
+          "viewer_rating": 3.6,
+          "countries": "USA",
+          "viewer_meter": 76,
+          "imdb_votes": 23227,
+          "cast": "Marilyn Monroe, Tom Ewell, Evelyn Keyes, Sonny Tufts",
+          "type": "movie",
+          "directors": "Billy Wilder",
+          "runtime": 105,
+          "imdb_rating": 7.3
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1391f29313caabcd7f11",
+        "text": "Title: Grass: A Nation's Battle for Life. Genres: Documentary. Cast: Merian C. Cooper, Ernest B. Schoedsack, Marguerite Harrison, Haidar Khan. Directors: Merian C. Cooper, Ernest B. Schoedsack. Writers: Richard Carver, Terry Ramsaye. Countries: USA. Year: 1925. Awards: 1 win.",
+        "metadata": {
+          "viewer_rating": 3.7,
+          "type": "movie",
+          "title": "Grass: A Nation's Battle for Life",
+          "languages": "",
+          "directors": "Merian C. Cooper, Ernest B. Schoedsack",
+          "genres": "Documentary",
+          "imdb_votes": 677,
+          "award_nominations": 0,
+          "year": 1925,
+          "runtime": 71,
+          "num_mflix_comments": 0,
+          "award_wins": 1,
+          "source": "movies",
+          "countries": "USA",
+          "viewer_meter": 90,
+          "cast": "Merian C. Cooper, Ernest B. Schoedsack, Marguerite Harrison, Haidar Khan",
+          "rated": "PASSED",
+          "imdb_rating": 7.9
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1394f29313caabcdfd44",
+        "text": "Title: A Kid for Two Farthings. Genres: Comedy, Drama, Family. Cast: Celia Johnson, Diana Dors, David Kossoff, Joe Robinson. Directors: Carol Reed. Writers: Wolf Mankowitz, Wolf Mankowitz. Countries: UK. Languages: English. Year: 1955. Awards: 1 nomination.",
+        "metadata": {
+          "award_nominations": 1,
+          "imdb_votes": 592,
+          "imdb_rating": 6.7,
+          "viewer_meter": 68,
+          "directors": "Carol Reed",
+          "award_wins": 0,
+          "cast": "Celia Johnson, Diana Dors, David Kossoff, Joe Robinson",
+          "runtime": 96,
+          "viewer_rating": 3.3,
+          "type": "movie",
+          "title": "A Kid for Two Farthings",
+          "countries": "UK",
+          "genres": "Comedy, Drama, Family",
+          "rated": "APPROVED",
+          "source": "movies",
+          "languages": "English",
+          "num_mflix_comments": 1,
+          "year": 1955
+        },
+        "score": 0.0001
+      }
+    ],
+    "query_time": 0.5188388000024133
+  },
+  "4": {
+    "query": "Who directed the 1924 Western film The Iron Horse?",
+    "generated_answer": "According to Document [1], John Ford directed the 1924 Western film The Iron Horse.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1391f29313caabcd70b4",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1394f29313caabcdea4b"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1392f29313caabcda482",
+      "movie_573a1394f29313caabce01f6",
+      "movie_573a1394f29313caabce0202"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd7bc3",
+        "text": "Title: The Iron Horse. Genres: Western. Cast: George O'Brien, Madge Bellamy, Charles Edward Bull, Cyril Chadwick. Directors: John Ford. Writers: Charles Kenyon, John Russell, Charles Kenyon, Charles Darnton. Countries: USA. Languages: English. Year: 1924. Awards: 1 win.",
+        "metadata": {
+          "rated": "PASSED",
+          "directors": "John Ford",
+          "imdb_votes": 1276,
+          "num_mflix_comments": 0,
+          "viewer_meter": 83,
+          "runtime": 150,
+          "genres": "Western",
+          "source": "movies",
+          "title": "The Iron Horse",
+          "award_nominations": 0,
+          "viewer_rating": 3.7,
+          "cast": "George O'Brien, Madge Bellamy, Charles Edward Bull, Cyril Chadwick",
+          "year": 1924,
+          "type": "movie",
+          "award_wins": 1,
+          "countries": "USA",
+          "languages": "English",
+          "imdb_rating": 7.3
+        },
+        "score": 0.9999
+      },
+      {
+        "id": "movie_573a1391f29313caabcd70b4",
+        "text": "Title: The Four Horsemen of the Apocalypse. Genres: Drama, Romance, War. Cast: Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolph Valentino. Directors: Rex Ingram. Writers: Vicente Blasco Ibèèez, June Mathis. Countries: USA. Year: 1921. Awards: 1 win.",
+        "metadata": {
+          "award_nominations": 0,
+          "genres": "Drama, Romance, War",
+          "cast": "Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolph Valentino",
+          "rated": "PASSED",
+          "year": 1921,
+          "imdb_rating": 7.9,
+          "imdb_votes": 2475,
+          "source": "movies",
+          "runtime": 150,
+          "directors": "Rex Ingram",
+          "countries": "USA",
+          "title": "The Four Horsemen of the Apocalypse",
+          "award_wins": 1,
+          "viewer_rating": 3.9,
+          "languages": "",
+          "num_mflix_comments": 1,
+          "type": "movie",
+          "viewer_meter": 76
+        },
+        "score": 0.0763
+      },
+      {
+        "id": "movie_573a1391f29313caabcd7b98",
+        "text": "Title: He Who Gets Slapped. Genres: Drama, Romance, Thriller. Cast: Lon Chaney, Norma Shearer, John Gilbert, Ruth King. Directors: Victor Sjèstrèm. Writers: Leonid Andreyev, Carey Wilson, Victor Sjèstrèm, Marian Ainslee. Countries: USA. Languages: English. Year: 1924. Awards: 1 win.",
+        "metadata": {
+          "num_mflix_comments": 0,
+          "award_nominations": 0,
+          "rated": "",
+          "directors": "Victor Sjèstrèm",
+          "imdb_votes": 1825,
+          "year": 1924,
+          "imdb_rating": 7.8,
+          "viewer_meter": 91,
+          "languages": "English",
+          "award_wins": 1,
+          "genres": "Drama, Romance, Thriller",
+          "type": "movie",
+          "title": "He Who Gets Slapped",
+          "runtime": 95,
+          "countries": "USA",
+          "cast": "Lon Chaney, Norma Shearer, John Gilbert, Ruth King",
+          "source": "movies",
+          "viewer_rating": 4.2
+        },
+        "score": 0.0545
+      },
+      {
+        "id": "movie_573a1394f29313caabcde70b",
+        "text": "Title: The Great Manhunt. Genres: Drama, Romance, Thriller. Cast: Douglas Fairbanks Jr., Jack Hawkins, Glynis Johns, Walter Rilla. Directors: Sidney Gilliat. Writers: Roy Huggins, Sidney Gilliat. Countries: UK. Languages: English. Year: 1950. Awards: Nominated for 1 BAFTA Film Award. Another 1 nomination.",
+        "metadata": {
+          "num_mflix_comments": 1,
+          "award_nominations": 2,
+          "genres": "Drama, Romance, Thriller",
+          "source": "movies",
+          "directors": "Sidney Gilliat",
+          "viewer_meter": 0,
+          "viewer_rating": 0.0,
+          "type": "movie",
+          "year": 1950,
+          "imdb_votes": 144,
+          "cast": "Douglas Fairbanks Jr., Jack Hawkins, Glynis Johns, Walter Rilla",
+          "rated": "PASSED",
+          "languages": "English",
+          "award_wins": 0,
+          "countries": "UK",
+          "imdb_rating": 7.0,
+          "title": "The Great Manhunt",
+          "runtime": 97
+        },
+        "score": 0.0072
+      },
+      {
+        "id": "movie_573a1394f29313caabcdea4b",
+        "text": "Title: The Browning Version. Genres: Drama. Cast: Michael Redgrave, Jean Kent, Nigel Patrick, Wilfrid Hyde-White. Directors: Anthony Asquith. Writers: Terence Rattigan, Terence Rattigan. Countries: UK. Languages: English. Year: 1951. Awards: Nominated for 2 BAFTA Film Awards. Another 7 wins & 1 nomination.",
+        "metadata": {
+          "cast": "Michael Redgrave, Jean Kent, Nigel Patrick, Wilfrid Hyde-White",
+          "countries": "UK",
+          "num_mflix_comments": 0,
+          "languages": "English",
+          "runtime": 90,
+          "award_nominations": 1,
+          "rated": "PASSED",
+          "viewer_meter": 96,
+          "source": "movies",
+          "genres": "Drama",
+          "imdb_rating": 8.2,
+          "viewer_rating": 4.3,
+          "award_wins": 9,
+          "directors": "Anthony Asquith",
+          "title": "The Browning Version",
+          "year": 1951,
+          "type": "movie",
+          "imdb_votes": 3109
+        },
+        "score": 0.003
+      }
+    ],
+    "query_time": 0.49736960000154795
+  },
+  "5": {
+    "query": "What is the genre of Steamboat Willie released in 1928?",
+    "generated_answer": "Based on the provided documents, I can answer that:\n\nThe genre of Steamboat Willie (released in 1928) is Animation, Family, and Comedy.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1394f29313caabcdf376",
+      "movie_573a1393f29313caabcdcf2f",
+      "movie_573a1392f29313caabcda7a4"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1394f29313caabcdf376",
+      "movie_573a1393f29313caabcdca3f",
+      "movie_573a1393f29313caabcddf2b"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd8cf4",
+        "text": "Title: Steamboat Willie. Genres: Animation, Family, Comedy. Cast: Walt Disney. Directors: Ub Iwerks, Walt Disney. Countries: USA. Languages: English. Year: 1928. Awards: 1 win.",
+        "metadata": {
+          "title": "Steamboat Willie",
+          "cast": "Walt Disney",
+          "viewer_rating": 3.8,
+          "rated": "",
+          "viewer_meter": 83,
+          "award_nominations": 0,
+          "languages": "English",
+          "imdb_votes": 4230,
+          "directors": "Ub Iwerks, Walt Disney",
+          "num_mflix_comments": 0,
+          "source": "movies",
+          "award_wins": 1,
+          "runtime": 8,
+          "genres": "Animation, Family, Comedy",
+          "type": "movie",
+          "countries": "USA",
+          "year": 1928,
+          "imdb_rating": 7.7
+        },
+        "score": 0.9995
+      },
+      {
+        "id": "movie_573a1394f29313caabcde95f",
+        "text": "Title: When Willie Comes Marching Home. Genres: Comedy, War. Cast: Dan Dailey, Corinne Calvet, Colleen Townsend, William Demarest. Directors: John Ford. Writers: Sy Gomberg, Richard Sale, Mary Loos. Countries: USA. Languages: English, French. Year: 1950. Awards: Nominated for 1 Oscar. Another 1 win & 1 nomination.",
+        "metadata": {
+          "source": "movies",
+          "year": 1950,
+          "directors": "John Ford",
+          "genres": "Comedy, War",
+          "languages": "English, French",
+          "award_nominations": 1,
+          "runtime": 82,
+          "viewer_rating": 3.4,
+          "type": "movie",
+          "award_wins": 2,
+          "title": "When Willie Comes Marching Home",
+          "num_mflix_comments": 1,
+          "imdb_votes": 437,
+          "viewer_meter": 55,
+          "cast": "Dan Dailey, Corinne Calvet, Colleen Townsend, William Demarest",
+          "rated": "APPROVED",
+          "imdb_rating": 6.6,
+          "countries": "USA"
+        },
+        "score": 0.45
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf376",
+        "text": "Title: Duck Dodgers in the 24èth Century. Genres: Family, Sci-Fi, Animation. Cast: Mel Blanc. Directors: Chuck Jones. Writers: Michael Maltese. Countries: USA. Languages: English. Year: 1953. Awards: 1 nomination.",
+        "metadata": {
+          "viewer_rating": 3.3,
+          "type": "movie",
+          "runtime": 7,
+          "imdb_votes": 4286,
+          "directors": "Chuck Jones",
+          "year": 1953,
+          "source": "movies",
+          "cast": "Mel Blanc",
+          "countries": "USA",
+          "title": "Duck Dodgers in the 24èth Century",
+          "genres": "Family, Sci-Fi, Animation",
+          "languages": "English",
+          "num_mflix_comments": 0,
+          "award_nominations": 1,
+          "rated": "APPROVED",
+          "award_wins": 0,
+          "imdb_rating": 8.2,
+          "viewer_meter": 54
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1393f29313caabcdcf2f",
+        "text": "Title: This Is the Army. Genres: Comedy, Musical, War. Cast: George Murphy, Joan Leslie, George Tobias, Alan Hale. Directors: Michael Curtiz. Writers: Casey Robinson, Claude Binyon. Countries: USA. Languages: English. Year: 1943. Awards: Won 1 Oscar. Another 2 nominations.",
+        "metadata": {
+          "countries": "USA",
+          "type": "movie",
+          "award_wins": 0,
+          "source": "movies",
+          "genres": "Comedy, Musical, War",
+          "award_nominations": 3,
+          "viewer_rating": 3.5,
+          "imdb_votes": 677,
+          "directors": "Michael Curtiz",
+          "imdb_rating": 6.1,
+          "runtime": 121,
+          "languages": "English",
+          "viewer_meter": 55,
+          "cast": "George Murphy, Joan Leslie, George Tobias, Alan Hale",
+          "num_mflix_comments": 0,
+          "year": 1943,
+          "rated": "",
+          "title": "This Is the Army"
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1392f29313caabcda7a4",
+        "text": "Title: The Devil Is a Woman. Genres: Comedy, Drama, Romance. Cast: Marlene Dietrich, Lionel Atwill, Edward Everett Horton, Alison Skipworth. Directors: Josef von Sternberg. Writers: Pierre Louès, John Dos Passos, Sam Winston, David Hertz. Countries: USA. Languages: English, Spanish. Year: 1935. Awards: 1 win & 1 nomination.",
+        "metadata": {
+          "cast": "Marlene Dietrich, Lionel Atwill, Edward Everett Horton, Alison Skipworth",
+          "imdb_rating": 7.2,
+          "type": "movie",
+          "languages": "English, Spanish",
+          "award_nominations": 1,
+          "runtime": 79,
+          "source": "movies",
+          "imdb_votes": 1813,
+          "genres": "Comedy, Drama, Romance",
+          "award_wins": 1,
+          "rated": "APPROVED",
+          "year": 1935,
+          "countries": "USA",
+          "num_mflix_comments": 0,
+          "directors": "Josef von Sternberg",
+          "viewer_meter": 71,
+          "viewer_rating": 3.7,
+          "title": "The Devil Is a Woman"
+        },
+        "score": 0.0002
+      }
+    ],
+    "query_time": 0.5654866999975638
+  },
+  "6": {
+    "query": "Who are the directors of the 1927 war film Wings?",
+    "generated_answer": "According to Document [1], the directors of the 1927 war film \"Wings\" are William A. Wellman and Harry d'Abbadie d'Arrast.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1393f29313caabcdde0f",
+      "movie_573a1394f29313caabcdec8e",
+      "movie_573a1392f29313caabcdac22"
+    ],
+    "pert_ids": [
+      "movie_573a1393f29313caabcdca76",
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1394f29313caabcdec8e",
+      "movie_573a1393f29313caabcde300"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd89aa",
+        "text": "Title: Wings. Genres: Drama, Romance, War. Cast: Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston. Directors: William A. Wellman, Harry d'Abbadie d'Arrast. Writers: John Monk Saunders, Hope Loring, Louis D. Lighton, Julian Johnson. Countries: USA. Languages: English. Year: 1927. Awards: Won 2 Oscars. Another 3 wins & 1 nomination.",
+        "metadata": {
+          "viewer_rating": 3.8,
+          "runtime": 144,
+          "rated": "PG-13",
+          "imdb_rating": 7.8,
+          "type": "movie",
+          "year": 1927,
+          "imdb_votes": 7196,
+          "num_mflix_comments": 1,
+          "award_nominations": 1,
+          "genres": "Drama, Romance, War",
+          "directors": "William A. Wellman, Harry d'Abbadie d'Arrast",
+          "viewer_meter": 77,
+          "source": "movies",
+          "languages": "English",
+          "award_wins": 5,
+          "cast": "Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston",
+          "countries": "USA",
+          "title": "Wings"
+        },
+        "score": 0.9997
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf691",
+        "text": "Title: The War of the Worlds. Genres: Action, Sci-Fi, Thriller. Cast: Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite. Directors: Byron Haskin. Writers: H.G. Wells, Barrè Lyndon. Countries: USA. Languages: English, Spanish. Year: 1953. Awards: Won 1 Oscar. Another 4 wins & 2 nominations.",
+        "metadata": {
+          "type": "movie",
+          "cast": "Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite",
+          "runtime": 85,
+          "award_wins": 5,
+          "year": 1953,
+          "rated": "APPROVED",
+          "viewer_rating": 3.5,
+          "countries": "USA",
+          "languages": "English, Spanish",
+          "directors": "Byron Haskin",
+          "source": "movies",
+          "genres": "Action, Sci-Fi, Thriller",
+          "imdb_rating": 7.1,
+          "award_nominations": 2,
+          "viewer_meter": 83,
+          "title": "The War of the Worlds",
+          "imdb_votes": 23580,
+          "num_mflix_comments": 1
+        },
+        "score": 0.2057
+      },
+      {
+        "id": "movie_573a1393f29313caabcdde0f",
+        "text": "Title: Command Decision. Genres: War, Drama. Cast: Clark Gable, Walter Pidgeon, Van Johnson, Brian Donlevy. Directors: Sam Wood. Writers: William R. Laidlaw, George Froeschel, William Wister Haines. Countries: USA. Languages: English. Year: 1948. Awards: 2 nominations.",
+        "metadata": {
+          "viewer_rating": 3.7,
+          "viewer_meter": 77,
+          "num_mflix_comments": 0,
+          "title": "Command Decision",
+          "year": 1948,
+          "type": "movie",
+          "cast": "Clark Gable, Walter Pidgeon, Van Johnson, Brian Donlevy",
+          "award_nominations": 2,
+          "award_wins": 0,
+          "countries": "USA",
+          "languages": "English",
+          "imdb_rating": 7.3,
+          "directors": "Sam Wood",
+          "source": "movies",
+          "runtime": 112,
+          "imdb_votes": 1476,
+          "genres": "War, Drama",
+          "rated": "PASSED"
+        },
+        "score": 0.1816
+      },
+      {
+        "id": "movie_573a1394f29313caabcdec8e",
+        "text": "Title: The Red Badge of Courage. Genres: Drama, War. Cast: Audie Murphy, Bill Mauldin, Douglas Dick, Royal Dano. Directors: John Huston. Writers: Stephen Crane, John Huston, Albert Band. Countries: USA. Languages: English. Year: 1951. Awards: Nominated for 1 BAFTA Film Award. Another 1 win.",
+        "metadata": {
+          "award_nominations": 0,
+          "year": 1951,
+          "cast": "Audie Murphy, Bill Mauldin, Douglas Dick, Royal Dano",
+          "rated": "APPROVED",
+          "directors": "John Huston",
+          "viewer_meter": 69,
+          "runtime": 69,
+          "genres": "Drama, War",
+          "title": "The Red Badge of Courage",
+          "award_wins": 2,
+          "imdb_rating": 7.3,
+          "viewer_rating": 3.4,
+          "source": "movies",
+          "countries": "USA",
+          "languages": "English",
+          "num_mflix_comments": 0,
+          "imdb_votes": 2905,
+          "type": "movie"
+        },
+        "score": 0.108
+      },
+      {
+        "id": "movie_573a1392f29313caabcdac22",
+        "text": "Title: The Charge of the Light Brigade. Genres: Action, Adventure, Romance. Cast: Errol Flynn, Olivia de Havilland, Patric Knowles, Henry Stephenson. Directors: Michael Curtiz. Writers: Alfred Lord Tennyson, Michael Jacoby, Michael Jacoby, Rowland Leigh. Countries: USA. Languages: English. Year: 1936. Awards: Won 1 Oscar. Another 3 nominations.",
+        "metadata": {
+          "runtime": 115,
+          "award_nominations": 4,
+          "source": "movies",
+          "imdb_rating": 7.1,
+          "viewer_rating": 3.5,
+          "imdb_votes": 3187,
+          "num_mflix_comments": 0,
+          "year": 1936,
+          "languages": "English",
+          "cast": "Errol Flynn, Olivia de Havilland, Patric Knowles, Henry Stephenson",
+          "genres": "Action, Adventure, Romance",
+          "title": "The Charge of the Light Brigade",
+          "rated": "APPROVED",
+          "directors": "Michael Curtiz",
+          "countries": "USA",
+          "type": "movie",
+          "award_wins": 0,
+          "viewer_meter": 60
+        },
+        "score": 0.0921
+      }
+    ],
+    "query_time": 0.710664899997937
+  },
+  "7": {
+    "query": "Which animated short from 1914 was written and directed by the same person who starred in it?",
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not contain any information about an animated short from 1914, nor do they mention a film where the writer-director also stars in it.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd68d0",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1394f29313caabcdf7e3",
+      "movie_573a1394f29313caabcdf2bb",
+      "movie_573a1394f29313caabce0202"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd68d0",
+      "movie_573a1394f29313caabce004b",
+      "movie_573a1394f29313caabcdf7e3",
+      "movie_573a1393f29313caabcdded2",
+      "movie_573a1392f29313caabcdab4a"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd68d0",
+        "text": "Title: From Hand to Mouth. Genres: Comedy, Short, Action. Cast: Harold Lloyd, Mildred Davis, 'Snub' Pollard, Peggy Cartwright. Directors: Alfred J. Goulding, Hal Roach. Writers: H.M. Walker. Countries: USA. Languages: English. Year: 1919. Awards: 1 nomination.",
+        "metadata": {
+          "source": "movies",
+          "type": "movie",
+          "viewer_meter": 55,
+          "num_mflix_comments": 0,
+          "imdb_rating": 7.0,
+          "viewer_rating": 3.3,
+          "directors": "Alfred J. Goulding, Hal Roach",
+          "cast": "Harold Lloyd, Mildred Davis, 'Snub' Pollard, Peggy Cartwright",
+          "award_wins": 0,
+          "runtime": 22,
+          "genres": "Comedy, Short, Action",
+          "countries": "USA",
+          "imdb_votes": 639,
+          "languages": "English",
+          "rated": "TV-G",
+          "award_nominations": 1,
+          "title": "From Hand to Mouth",
+          "year": 1919
+        },
+        "score": 0.0085
+      },
+      {
+        "id": "movie_573a1392f29313caabcdab4a",
+        "text": "Title: Who Killed Cock Robin?. Genres: Animation, Comedy, Family. Cast: Billy Bletcher, Purv Pullen, Martha Wentworth. Directors: David Hand. Countries: USA. Languages: English. Year: 1935. Awards: Nominated for 1 Oscar. Another 2 wins.",
+        "metadata": {
+          "title": "Who Killed Cock Robin?",
+          "countries": "USA",
+          "imdb_rating": 7.2,
+          "cast": "Billy Bletcher, Purv Pullen, Martha Wentworth",
+          "genres": "Animation, Comedy, Family",
+          "directors": "David Hand",
+          "viewer_meter": 80,
+          "imdb_votes": 389,
+          "languages": "English",
+          "rated": "APPROVED",
+          "year": 1935,
+          "award_wins": 3,
+          "source": "movies",
+          "award_nominations": 0,
+          "runtime": 8,
+          "viewer_rating": 4.0,
+          "type": "movie",
+          "num_mflix_comments": 1
+        },
+        "score": 0.0014
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf7e3",
+        "text": "Title: Creature from the Black Lagoon. Genres: Adventure, Horror, Sci-Fi. Cast: Richard Carlson, Julie Adams, Richard Denning, Antonio Moreno. Directors: Jack Arnold. Writers: Harry Essex, Arthur A. Ross, Maurice Zimm. Countries: USA. Languages: English. Year: 1954. Awards: 1 win.",
+        "metadata": {
+          "award_wins": 1,
+          "rated": "APPROVED",
+          "source": "movies",
+          "num_mflix_comments": 0,
+          "viewer_meter": 73,
+          "viewer_rating": 3.3,
+          "imdb_rating": 7.0,
+          "year": 1954,
+          "type": "movie",
+          "runtime": 79,
+          "languages": "English",
+          "imdb_votes": 15637,
+          "title": "Creature from the Black Lagoon",
+          "award_nominations": 0,
+          "genres": "Adventure, Horror, Sci-Fi",
+          "directors": "Jack Arnold",
+          "cast": "Richard Carlson, Julie Adams, Richard Denning, Antonio Moreno",
+          "countries": "USA"
+        },
+        "score": 0.001
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf2bb",
+        "text": "Title: The Beast from 20,000 Fathoms. Genres: Adventure, Horror, Sci-Fi. Cast: Paul Hubschmid, Paula Raymond, Cecil Kellaway, Kenneth Tobey. Directors: Eugène Louriè. Writers: Lou Morheim, Fred Freiberger, Ray Bradbury. Countries: USA. Languages: English, French. Year: 1953. Awards: 1 nomination.",
+        "metadata": {
+          "award_nominations": 1,
+          "type": "movie",
+          "viewer_rating": 3.5,
+          "viewer_meter": 68,
+          "countries": "USA",
+          "rated": "APPROVED",
+          "cast": "Paul Hubschmid, Paula Raymond, Cecil Kellaway, Kenneth Tobey",
+          "title": "The Beast from 20,000 Fathoms",
+          "directors": "Eugène Louriè",
+          "genres": "Adventure, Horror, Sci-Fi",
+          "source": "movies",
+          "num_mflix_comments": 0,
+          "imdb_votes": 4311,
+          "imdb_rating": 6.7,
+          "year": 1953,
+          "award_wins": 0,
+          "languages": "English, French",
+          "runtime": 80
+        },
+        "score": 0.0009
+      },
+      {
+        "id": "movie_573a1394f29313caabce0202",
+        "text": "Title: The Man Who Never Was. Genres: War, Drama. Cast: Clifton Webb, Gloria Grahame, Robert Flemyng, Josephine Griffin. Directors: Ronald Neame. Writers: Ewen Montagu, Nigel Balchin. Countries: UK. Languages: English, German, Spanish, Latin. Year: 1956. Awards: Won 1 BAFTA Film Award. Another 1 win & 4 nominations.",
+        "metadata": {
+          "imdb_votes": 2940,
+          "imdb_rating": 7.5,
+          "directors": "Ronald Neame",
+          "title": "The Man Who Never Was",
+          "genres": "War, Drama",
+          "year": 1956,
+          "viewer_meter": 84,
+          "num_mflix_comments": 0,
+          "award_nominations": 4,
+          "award_wins": 2,
+          "source": "movies",
+          "rated": "APPROVED",
+          "countries": "UK",
+          "runtime": 103,
+          "languages": "English, German, Spanish, Latin",
+          "viewer_rating": 3.6,
+          "cast": "Clifton Webb, Gloria Grahame, Robert Flemyng, Josephine Griffin",
+          "type": "movie"
+        },
+        "score": 0.0007
+      }
+    ],
+    "query_time": 1.0962434999964898
+  },
+  "8": {
+    "query": "Name an early American crime drama film from 1913 involving human trafficking.",
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only contain information about films released between 1947 and 1953, but none of them are related to a film from 1913 that involves human trafficking.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcddd6d",
+      "movie_573a1393f29313caabcde453",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1394f29313caabcde80c",
+      "movie_573a1394f29313caabcdf483"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1393f29313caabcddd6d",
+      "movie_573a1393f29313caabcde453",
+      "movie_573a1394f29313caabcde80c",
+      "movie_573a1394f29313caabcded03"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1393f29313caabcddd6d",
+        "text": "Title: An Act of Murder. Genres: Crime, Drama, Film-Noir. Cast: Fredric March, Edmond O'Brien, Florence Eldridge, Geraldine Brooks. Directors: Michael Gordon. Writers: Ernst Lothar, Michael Blankfort, Robert Thoeren. Countries: USA. Languages: English. Year: 1948. Awards: 1 nomination.",
+        "metadata": {
+          "directors": "Michael Gordon",
+          "source": "movies",
+          "viewer_rating": 3.7,
+          "type": "movie",
+          "genres": "Crime, Drama, Film-Noir",
+          "imdb_votes": 377,
+          "award_nominations": 1,
+          "runtime": 91,
+          "award_wins": 0,
+          "viewer_meter": 72,
+          "cast": "Fredric March, Edmond O'Brien, Florence Eldridge, Geraldine Brooks",
+          "imdb_rating": 6.9,
+          "year": 1948,
+          "countries": "USA",
+          "languages": "English",
+          "rated": "APPROVED",
+          "num_mflix_comments": 0,
+          "title": "An Act of Murder"
+        },
+        "score": 0.0127
+      },
+      {
+        "id": "movie_573a1393f29313caabcde453",
+        "text": "Title: Scene of the Crime. Genres: Crime, Film-Noir, Drama. Cast: Van Johnson, Arlene Dahl, Gloria DeHaven, Tom Drake. Directors: Roy Rowland. Writers: John Bartlow Martin, Charles Schnee. Countries: USA. Languages: English. Year: 1949. Awards: 1 nomination.",
+        "metadata": {
+          "year": 1949,
+          "award_wins": 0,
+          "cast": "Van Johnson, Arlene Dahl, Gloria DeHaven, Tom Drake",
+          "source": "movies",
+          "num_mflix_comments": 0,
+          "imdb_rating": 6.6,
+          "viewer_meter": 25,
+          "title": "Scene of the Crime",
+          "languages": "English",
+          "countries": "USA",
+          "runtime": 94,
+          "directors": "Roy Rowland",
+          "type": "movie",
+          "rated": "PASSED",
+          "genres": "Crime, Film-Noir, Drama",
+          "award_nominations": 1,
+          "viewer_rating": 3.3,
+          "imdb_votes": 573
+        },
+        "score": 0.0086
+      },
+      {
+        "id": "movie_573a1393f29313caabcddcb5",
+        "text": "Title: I Became a Criminal. Genres: Crime, Drama. Cast: Sally Gray, Trevor Howard, Griffith Jones, Renè Ray. Directors: Alberto Cavalcanti. Writers: Jackson Budd, Noel Langley. Countries: UK. Languages: English. Year: 1947. Awards: 1 nomination.",
+        "metadata": {
+          "runtime": 78,
+          "countries": "UK",
+          "imdb_votes": 806,
+          "num_mflix_comments": 0,
+          "title": "I Became a Criminal",
+          "year": 1947,
+          "cast": "Sally Gray, Trevor Howard, Griffith Jones, Renè Ray",
+          "award_wins": 0,
+          "directors": "Alberto Cavalcanti",
+          "languages": "English",
+          "source": "movies",
+          "viewer_rating": 3.7,
+          "award_nominations": 1,
+          "type": "movie",
+          "rated": "",
+          "viewer_meter": 79,
+          "imdb_rating": 7.3,
+          "genres": "Crime, Drama"
+        },
+        "score": 0.0038
+      },
+      {
+        "id": "movie_573a1394f29313caabcde80c",
+        "text": "Title: No Way Out. Genres: Crime, Drama, Film-Noir. Cast: Richard Widmark, Linda Darnell, Stephen McNally, Sidney Poitier. Directors: Joseph L. Mankiewicz. Writers: Joseph L. Mankiewicz, Lesser Samuels. Countries: USA. Languages: English, American Sign Language. Year: 1950. Awards: Nominated for 1 Oscar. Another 1 win & 1 nomination.",
+        "metadata": {
+          "countries": "USA",
+          "cast": "Richard Widmark, Linda Darnell, Stephen McNally, Sidney Poitier",
+          "year": 1950,
+          "award_wins": 2,
+          "directors": "Joseph L. Mankiewicz",
+          "title": "No Way Out",
+          "languages": "English, American Sign Language",
+          "num_mflix_comments": 0,
+          "rated": "APPROVED",
+          "viewer_rating": 3.9,
+          "type": "movie",
+          "award_nominations": 1,
+          "imdb_votes": 2609,
+          "imdb_rating": 7.5,
+          "source": "movies",
+          "viewer_meter": 83,
+          "genres": "Crime, Drama, Film-Noir",
+          "runtime": 106
+        },
+        "score": 0.0032
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf483",
+        "text": "Title: The Little Kidnappers. Genres: Drama, Family, Romance. Cast: Duncan Macrae, Jean Anderson, Adrienne Corri, Theodore Bikel. Directors: Philip Leacock. Writers: Neil Paterson. Countries: UK. Languages: English. Year: 1953. Awards: Nominated for 3 BAFTA Film Awards. Another 3 wins & 1 nomination.",
+        "metadata": {
+          "languages": "English",
+          "cast": "Duncan Macrae, Jean Anderson, Adrienne Corri, Theodore Bikel",
+          "award_nominations": 1,
+          "genres": "Drama, Family, Romance",
+          "source": "movies",
+          "type": "movie",
+          "num_mflix_comments": 0,
+          "imdb_rating": 7.2,
+          "imdb_votes": 339,
+          "year": 1953,
+          "award_wins": 6,
+          "directors": "Philip Leacock",
+          "countries": "UK",
+          "viewer_rating": 4.0,
+          "title": "The Little Kidnappers",
+          "viewer_meter": 88,
+          "runtime": 93,
+          "rated": "APPROVED"
+        },
+        "score": 0.0006
+      }
+    ],
+    "query_time": 0.8197034999975585
+  },
+  "9": {
+    "query": "Which early 1900s silent Western short film involves a train robbery and was produced in the USA?",
+    "generated_answer": "According to Document [1], the early 1900s silent Western short film that involves a train robbery and was produced in the USA is \"The Great Train Robbery\" (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0230",
+      "movie_573a1394f29313caabcde750",
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcdf61c"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1394f29313caabcde750"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd42e8",
+        "text": "Title: The Great Train Robbery. Genres: Short, Western. Cast: A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes. Directors: Edwin S. Porter. Countries: USA. Languages: English. Year: 1903. Awards: 1 win.",
+        "metadata": {
+          "type": "movie",
+          "imdb_rating": 7.4,
+          "genres": "Short, Western",
+          "award_nominations": 0,
+          "runtime": 11,
+          "title": "The Great Train Robbery",
+          "source": "movies",
+          "cast": "A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes",
+          "num_mflix_comments": 0,
+          "year": 1903,
+          "languages": "English",
+          "viewer_meter": 75,
+          "award_wins": 1,
+          "viewer_rating": 3.7,
+          "countries": "USA",
+          "directors": "Edwin S. Porter",
+          "rated": "TV-G",
+          "imdb_votes": 9847
+        },
+        "score": 0.9845
+      },
+      {
+        "id": "movie_573a1394f29313caabce0230",
+        "text": "Title: The Silent World. Genres: Documentary. Cast: Frèdèric Dumas, Albert Falco, Jacques-Yves Cousteau, Franèois Saout. Directors: Jacques-Yves Cousteau, Louis Malle. Writers: Jacques-Yves Cousteau. Countries: France, Italy. Languages: French. Year: 1956. Awards: Won 1 Oscar. Another 4 wins & 1 nomination.",
+        "metadata": {
+          "award_nominations": 1,
+          "viewer_rating": 3.9,
+          "genres": "Documentary",
+          "title": "The Silent World",
+          "rated": "",
+          "imdb_votes": 833,
+          "type": "movie",
+          "imdb_rating": 7.3,
+          "runtime": 86,
+          "languages": "French",
+          "cast": "Frèdèric Dumas, Albert Falco, Jacques-Yves Cousteau, Franèois Saout",
+          "year": 1956,
+          "award_wins": 5,
+          "source": "movies",
+          "directors": "Jacques-Yves Cousteau, Louis Malle",
+          "viewer_meter": 84,
+          "num_mflix_comments": 1,
+          "countries": "France, Italy"
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1394f29313caabcde750",
+        "text": "Title: In a Lonely Place. Genres: Drama, Film-Noir, Mystery. Cast: Humphrey Bogart, Gloria Grahame, Frank Lovejoy, Carl Benton Reid. Directors: Nicholas Ray. Writers: Andrew Solt, Edmund H. North, Dorothy B. Hughes. Countries: USA. Languages: English. Year: 1950. Awards: 1 win.",
+        "metadata": {
+          "viewer_rating": 4.1,
+          "countries": "USA",
+          "directors": "Nicholas Ray",
+          "year": 1950,
+          "award_wins": 1,
+          "title": "In a Lonely Place",
+          "runtime": 94,
+          "cast": "Humphrey Bogart, Gloria Grahame, Frank Lovejoy, Carl Benton Reid",
+          "type": "movie",
+          "rated": "APPROVED",
+          "viewer_meter": 89,
+          "genres": "Drama, Film-Noir, Mystery",
+          "source": "movies",
+          "imdb_votes": 15133,
+          "languages": "English",
+          "imdb_rating": 8.0,
+          "num_mflix_comments": 0,
+          "award_nominations": 0
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1390f29313caabcd446f",
+        "text": "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909. Awards: 1 win.",
+        "metadata": {
+          "award_nominations": 0,
+          "imdb_rating": 6.6,
+          "runtime": 14,
+          "award_wins": 1,
+          "type": "movie",
+          "viewer_meter": 73,
+          "countries": "USA",
+          "year": 1909,
+          "viewer_rating": 3.6,
+          "num_mflix_comments": 1,
+          "directors": "D.W. Griffith",
+          "imdb_votes": 1375,
+          "rated": "G",
+          "languages": "English",
+          "source": "movies",
+          "genres": "Short, Drama",
+          "cast": "Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson",
+          "title": "A Corner in Wheat"
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf61c",
+        "text": "Title: The Sun Shines Bright. Genres: Comedy, Drama, Western. Cast: Charles Winninger, Arleen Whelan, John Russell, Stepin Fetchit. Directors: John Ford. Writers: Laurence Stallings, Irvin S. Cobb, \"The Mob from Massac\" and \"The Lord Provides\"). Countries: USA. Languages: English, German. Year: 1953. Awards: Nominated for 1 BAFTA Film Award. Another 1 nomination.",
+        "metadata": {
+          "directors": "John Ford",
+          "award_nominations": 2,
+          "num_mflix_comments": 0,
+          "runtime": 90,
+          "year": 1953,
+          "imdb_votes": 744,
+          "cast": "Charles Winninger, Arleen Whelan, John Russell, Stepin Fetchit",
+          "genres": "Comedy, Drama, Western",
+          "viewer_meter": 71,
+          "languages": "English, German",
+          "viewer_rating": 3.8,
+          "award_wins": 0,
+          "rated": "APPROVED",
+          "title": "The Sun Shines Bright",
+          "imdb_rating": 7.2,
+          "source": "movies",
+          "countries": "USA",
+          "type": "movie"
+        },
+        "score": 0.0001
+      }
+    ],
+    "query_time": 0.9008207000006223
+  },
+  "10": {
+    "query": "What D.W. Griffith drama short was released before 1910 in the United States?",
+    "generated_answer": "Error: Failed to connect to Ollama: timed out",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1393f29313caabcdca03",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1393f29313caabcdc371"
+    ],
+    "pert_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1393f29313caabcde2ff",
+      "movie_573a1393f29313caabcdc371"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1390f29313caabcd446f",
+        "text": "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909. Awards: 1 win.",
+        "metadata": {
+          "runtime": 14,
+          "imdb_votes": 1375,
+          "award_wins": 1,
+          "rated": "G",
+          "viewer_rating": 3.6,
+          "num_mflix_comments": 1,
+          "cast": "Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson",
+          "title": "A Corner in Wheat",
+          "viewer_meter": 73,
+          "languages": "English",
+          "countries": "USA",
+          "source": "movies",
+          "type": "movie",
+          "imdb_rating": 6.6,
+          "directors": "D.W. Griffith",
+          "genres": "Short, Drama",
+          "year": 1909,
+          "award_nominations": 0
+        },
+        "score": 0.9713
+      },
+      {
+        "id": "movie_573a1393f29313caabcddcb5",
+        "text": "Title: I Became a Criminal. Genres: Crime, Drama. Cast: Sally Gray, Trevor Howard, Griffith Jones, Renè Ray. Directors: Alberto Cavalcanti. Writers: Jackson Budd, Noel Langley. Countries: UK. Languages: English. Year: 1947. Awards: 1 nomination.",
+        "metadata": {
+          "runtime": 78,
+          "imdb_votes": 806,
+          "title": "I Became a Criminal",
+          "num_mflix_comments": 0,
+          "directors": "Alberto Cavalcanti",
+          "countries": "UK",
+          "award_nominations": 1,
+          "type": "movie",
+          "source": "movies",
+          "award_wins": 0,
+          "year": 1947,
+          "viewer_rating": 3.7,
+          "genres": "Crime, Drama",
+          "cast": "Sally Gray, Trevor Howard, Griffith Jones, Renè Ray",
+          "viewer_meter": 79,
+          "imdb_rating": 7.3,
+          "rated": "",
+          "languages": "English"
+        },
+        "score": 0.0015
+      },
+      {
+        "id": "movie_573a1393f29313caabcdca03",
+        "text": "Title: Mrs. Miniver. Genres: Drama, War. Cast: Greer Garson, Walter Pidgeon, Teresa Wright, Dame May Whitty. Directors: William Wyler. Writers: Arthur Wimperis, George Froeschel, James Hilton, Claudine West. Countries: USA. Languages: English, German. Year: 1942. Awards: Won 6 Oscars. Another 3 wins & 6 nominations.",
+        "metadata": {
+          "directors": "William Wyler",
+          "viewer_rating": 3.9,
+          "award_wins": 9,
+          "languages": "English, German",
+          "imdb_rating": 7.6,
+          "rated": "APPROVED",
+          "num_mflix_comments": 0,
+          "source": "movies",
+          "year": 1942,
+          "award_nominations": 6,
+          "runtime": 134,
+          "title": "Mrs. Miniver",
+          "type": "movie",
+          "countries": "USA",
+          "viewer_meter": 85,
+          "imdb_votes": 10507,
+          "cast": "Greer Garson, Walter Pidgeon, Teresa Wright, Dame May Whitty",
+          "genres": "Drama, War"
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1391f29313caabcd7a34",
+        "text": "Title: A Woman of Paris: A Drama of Fate. Genres: Drama, Romance. Cast: Edna Purviance, Clarence Geldart, Carl Miller, Lydia Knott. Directors: Charles Chaplin. Writers: Charles Chaplin. Countries: USA. Year: 1923. Awards: 1 win.",
+        "metadata": {
+          "imdb_rating": 7.1,
+          "viewer_meter": 78,
+          "viewer_rating": 3.7,
+          "award_nominations": 0,
+          "runtime": 78,
+          "year": 1923,
+          "imdb_votes": 3179,
+          "countries": "USA",
+          "award_wins": 1,
+          "title": "A Woman of Paris: A Drama of Fate",
+          "source": "movies",
+          "type": "movie",
+          "languages": "",
+          "rated": "TV-PG",
+          "cast": "Edna Purviance, Clarence Geldart, Carl Miller, Lydia Knott",
+          "genres": "Drama, Romance",
+          "directors": "Charles Chaplin",
+          "num_mflix_comments": 1
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1393f29313caabcdc371",
+        "text": "Title: Blossoms in the Dust. Genres: Biography, Drama, Romance. Cast: Greer Garson, Walter Pidgeon, Felix Bressart, Marsha Hunt. Directors: Mervyn LeRoy. Writers: Anita Loos, Ralph Wheelwright. Countries: USA. Languages: English. Year: 1941. Awards: Won 1 Oscar. Another 3 nominations.",
+        "metadata": {
+          "genres": "Biography, Drama, Romance",
+          "languages": "English",
+          "rated": "APPROVED",
+          "title": "Blossoms in the Dust",
+          "type": "movie",
+          "viewer_meter": 72,
+          "runtime": 99,
+          "imdb_votes": 1085,
+          "source": "movies",
+          "imdb_rating": 7.0,
+          "award_wins": 0,
+          "year": 1941,
+          "num_mflix_comments": 0,
+          "cast": "Greer Garson, Walter Pidgeon, Felix Bressart, Marsha Hunt",
+          "viewer_rating": 3.8,
+          "directors": "Mervyn LeRoy",
+          "award_nominations": 4,
+          "countries": "USA"
+        },
+        "score": 0.0001
+      }
+    ],
+    "query_time": 4.083206900002551
+  },
+  "11": {
+    "query": "Which 1920s animated film produced by Walt Disney featured only one cast member listed?",
+    "generated_answer": "Based on the provided documents, I can answer your question. The 1920s animated film produced by Walt Disney that featured only one cast member listed is \"Steamboat Willie\" (Document [1]).",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1393f29313caabcdbfb0",
+      "movie_573a1394f29313caabcde63e",
+      "movie_573a1391f29313caabcd6e2a",
+      "movie_573a1394f29313caabcdf534"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1393f29313caabcdbfb0",
+      "movie_573a1394f29313caabcde63e",
+      "movie_573a1394f29313caabcdf534",
+      "movie_573a1391f29313caabcd6e2a"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd8cf4",
+        "text": "Title: Steamboat Willie. Genres: Animation, Family, Comedy. Cast: Walt Disney. Directors: Ub Iwerks, Walt Disney. Countries: USA. Languages: English. Year: 1928. Awards: 1 win.",
+        "metadata": {
+          "viewer_meter": 83,
+          "rated": "",
+          "year": 1928,
+          "runtime": 8,
+          "directors": "Ub Iwerks, Walt Disney",
+          "countries": "USA",
+          "imdb_votes": 4230,
+          "award_nominations": 0,
+          "cast": "Walt Disney",
+          "imdb_rating": 7.7,
+          "title": "Steamboat Willie",
+          "num_mflix_comments": 0,
+          "type": "movie",
+          "source": "movies",
+          "languages": "English",
+          "genres": "Animation, Family, Comedy",
+          "award_wins": 1,
+          "viewer_rating": 3.8
+        },
+        "score": 0.5869
+      },
+      {
+        "id": "movie_573a1393f29313caabcdbfb0",
+        "text": "Title: Fantasia. Genres: Animation, Family, Fantasy. Cast: Leopold Stokowski, Deems Taylor. Directors: Norman Ferguson, James Algar, Samuel Armstrong, Ford Beebe Jr., Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen. Writers: Joe Grant, Dick Huemer, Lee Blair, Elmer Plummer. Countries: USA. Languages: English. Year: 1940. Awards: 7 wins & 1 nomination.",
+        "metadata": {
+          "genres": "Animation, Family, Fantasy",
+          "award_nominations": 1,
+          "award_wins": 7,
+          "year": 1940,
+          "imdb_votes": 66572,
+          "runtime": 125,
+          "source": "movies",
+          "directors": "Norman Ferguson, James Algar, Samuel Armstrong, Ford Beebe Jr., Jim Handley, T. Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, Ben Sharpsteen",
+          "countries": "USA",
+          "type": "movie",
+          "languages": "English",
+          "num_mflix_comments": 0,
+          "viewer_rating": 3.5,
+          "viewer_meter": 83,
+          "rated": "G",
+          "cast": "Leopold Stokowski, Deems Taylor",
+          "title": "Fantasia",
+          "imdb_rating": 7.8
+        },
+        "score": 0.0616
+      },
+      {
+        "id": "movie_573a1394f29313caabcde63e",
+        "text": "Title: Cinderella. Genres: Animation, Family, Fantasy. Cast: Ilene Woods, Eleanor Audley, Verna Felton, Claire Du Brey. Directors: Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Writers: Charles Perrault, Bill Peet, Erdman Penner, Ted Sears. Countries: USA. Languages: English. Year: 1950. Awards: Nominated for 3 Oscars. Another 4 wins & 4 nominations.",
+        "metadata": {
+          "year": 1950,
+          "viewer_rating": 3.5,
+          "countries": "USA",
+          "genres": "Animation, Family, Fantasy",
+          "title": "Cinderella",
+          "award_nominations": 4,
+          "type": "movie",
+          "num_mflix_comments": 153,
+          "languages": "English",
+          "viewer_meter": 80,
+          "imdb_votes": 93731,
+          "source": "movies",
+          "rated": "APPROVED",
+          "award_wins": 7,
+          "directors": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+          "cast": "Ilene Woods, Eleanor Audley, Verna Felton, Claire Du Brey",
+          "imdb_rating": 7.3,
+          "runtime": 74
+        },
+        "score": 0.0129
+      },
+      {
+        "id": "movie_573a1391f29313caabcd6e2a",
+        "text": "Title: One Week. Genres: Short, Comedy. Cast: Buster Keaton, Sybil Seely. Directors: Edward F. Cline, Buster Keaton. Countries: USA. Languages: English. Year: 1920. Awards: 1 win.",
+        "metadata": {
+          "genres": "Short, Comedy",
+          "year": 1920,
+          "runtime": 25,
+          "imdb_rating": 8.3,
+          "countries": "USA",
+          "source": "movies",
+          "languages": "English",
+          "title": "One Week",
+          "award_nominations": 0,
+          "directors": "Edward F. Cline, Buster Keaton",
+          "type": "movie",
+          "viewer_rating": 4.3,
+          "cast": "Buster Keaton, Sybil Seely",
+          "award_wins": 1,
+          "num_mflix_comments": 0,
+          "imdb_votes": 3942,
+          "rated": "TV-G",
+          "viewer_meter": 91
+        },
+        "score": 0.0096
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf534",
+        "text": "Title: Peter Pan. Genres: Animation, Adventure, Family. Cast: Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson. Directors: Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney. Writers: J.M. Barrie, Ted Sears, Erdman Penner, Bill Peet. Countries: USA. Languages: English, American Sign Language. Year: 1953. Awards: 2 nominations.",
+        "metadata": {
+          "title": "Peter Pan",
+          "year": 1953,
+          "countries": "USA",
+          "cast": "Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson",
+          "imdb_votes": 74432,
+          "genres": "Animation, Adventure, Family",
+          "award_nominations": 2,
+          "num_mflix_comments": 0,
+          "source": "movies",
+          "runtime": 77,
+          "directors": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Kinney",
+          "viewer_rating": 3.5,
+          "type": "movie",
+          "award_wins": 0,
+          "viewer_meter": 80,
+          "imdb_rating": 7.4,
+          "languages": "English, American Sign Language",
+          "rated": "APPROVED"
+        },
+        "score": 0.0089
+      }
+    ],
+    "query_time": 1.5448045000084676
+  },
+  "12": {
+    "query": "Which World War I aviation drama from the late 1920s starred Clara Bow and was produced in the USA?",
+    "generated_answer": "The World War I aviation drama that starred Clara Bow and was produced in the USA is Wings (1927).",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1391f29313caabcd8780",
+      "movie_573a1391f29313caabcd71e3",
+      "movie_573a1390f29313caabcd56df",
+      "movie_573a1391f29313caabcd952a"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1391f29313caabcd952a",
+      "movie_573a1391f29313caabcd8780",
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1392f29313caabcda6aa"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd89aa",
+        "text": "Title: Wings. Genres: Drama, Romance, War. Cast: Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston. Directors: William A. Wellman, Harry d'Abbadie d'Arrast. Writers: John Monk Saunders, Hope Loring, Louis D. Lighton, Julian Johnson. Countries: USA. Languages: English. Year: 1927. Awards: Won 2 Oscars. Another 3 wins & 1 nomination.",
+        "metadata": {
+          "countries": "USA",
+          "languages": "English",
+          "type": "movie",
+          "viewer_meter": 77,
+          "imdb_votes": 7196,
+          "viewer_rating": 3.8,
+          "genres": "Drama, Romance, War",
+          "num_mflix_comments": 1,
+          "award_nominations": 1,
+          "cast": "Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston",
+          "directors": "William A. Wellman, Harry d'Abbadie d'Arrast",
+          "source": "movies",
+          "title": "Wings",
+          "imdb_rating": 7.8,
+          "award_wins": 5,
+          "year": 1927,
+          "runtime": 144,
+          "rated": "PG-13"
+        },
+        "score": 0.7822
+      },
+      {
+        "id": "movie_573a1391f29313caabcd8780",
+        "text": "Title: It. Genres: Comedy, Romance. Cast: Clara Bow, Antonio Moreno, William Austin, Priscilla Bonner. Directors: Clarence G. Badger, Josef von Sternberg. Writers: Elinor Glyn, Hope Loring, Louis D. Lighton, George Marion Jr.. Countries: USA. Year: 1927. Awards: 1 win.",
+        "metadata": {
+          "genres": "Comedy, Romance",
+          "award_nominations": 0,
+          "cast": "Clara Bow, Antonio Moreno, William Austin, Priscilla Bonner",
+          "imdb_rating": 7.5,
+          "type": "movie",
+          "imdb_votes": 2025,
+          "directors": "Clarence G. Badger, Josef von Sternberg",
+          "rated": "PASSED",
+          "award_wins": 1,
+          "num_mflix_comments": 1,
+          "languages": "",
+          "countries": "USA",
+          "year": 1927,
+          "title": "It",
+          "viewer_meter": 83,
+          "viewer_rating": 3.7,
+          "source": "movies",
+          "runtime": 72
+        },
+        "score": 0.4932
+      },
+      {
+        "id": "movie_573a1391f29313caabcd71e3",
+        "text": "Title: Miss Lulu Bett. Genres: Comedy, Drama. Cast: Lois Wilson, Milton Sills, Theodore Roberts, Helen Ferguson. Directors: William C. de Mille. Writers: Clara Beranger, Zona Gale. Countries: USA. Year: 1921. Awards: 1 win.",
+        "metadata": {
+          "award_wins": 1,
+          "directors": "William C. de Mille",
+          "num_mflix_comments": 0,
+          "year": 1921,
+          "viewer_rating": 2.5,
+          "rated": "",
+          "viewer_meter": 0,
+          "source": "movies",
+          "imdb_votes": 204,
+          "title": "Miss Lulu Bett",
+          "cast": "Lois Wilson, Milton Sills, Theodore Roberts, Helen Ferguson",
+          "imdb_rating": 7.2,
+          "type": "movie",
+          "award_nominations": 0,
+          "runtime": 71,
+          "countries": "USA",
+          "languages": "",
+          "genres": "Comedy, Drama"
+        },
+        "score": 0.01
+      },
+      {
+        "id": "movie_573a1390f29313caabcd56df",
+        "text": "Title: The Italian. Genres: Drama. Cast: George Beban, Clara Williams, J. Frank Burke, Leo Willis. Directors: Reginald Barker. Writers: Thomas H. Ince, C. Gardner Sullivan. Countries: USA. Languages: English. Year: 1915. Awards: 1 win.",
+        "metadata": {
+          "directors": "Reginald Barker",
+          "num_mflix_comments": 0,
+          "award_wins": 1,
+          "viewer_rating": 4.0,
+          "countries": "USA",
+          "viewer_meter": 60,
+          "year": 1915,
+          "rated": "PASSED",
+          "cast": "George Beban, Clara Williams, J. Frank Burke, Leo Willis",
+          "title": "The Italian",
+          "source": "movies",
+          "genres": "Drama",
+          "imdb_rating": 6.4,
+          "imdb_votes": 175,
+          "languages": "English",
+          "type": "movie",
+          "runtime": 78,
+          "award_nominations": 0
+        },
+        "score": 0.0061
+      },
+      {
+        "id": "movie_573a1391f29313caabcd952a",
+        "text": "Title: Westfront 1918. Genres: Drama, Romance, War. Cast: Fritz Kampers, Gustav Diessl, Hans-Joachim Mèbis, Claus Clausen. Directors: Georg Wilhelm Pabst. Writers: Ernst Johannsen, Ladislaus Vajda. Countries: Germany. Languages: German. Year: 1930. Awards: 1 win.",
+        "metadata": {
+          "countries": "Germany",
+          "cast": "Fritz Kampers, Gustav Diessl, Hans-Joachim Mèbis, Claus Clausen",
+          "viewer_meter": 100,
+          "award_wins": 1,
+          "num_mflix_comments": 0,
+          "title": "Westfront 1918",
+          "genres": "Drama, Romance, War",
+          "year": 1930,
+          "imdb_rating": 7.5,
+          "imdb_votes": 746,
+          "runtime": 75,
+          "source": "movies",
+          "type": "movie",
+          "directors": "Georg Wilhelm Pabst",
+          "languages": "German",
+          "award_nominations": 0,
+          "rated": "TV-PG",
+          "viewer_rating": 4.0
+        },
+        "score": 0.001
+      }
+    ],
+    "query_time": 3.2405445000040345
+  },
+  "13": {
+    "query": "Which 1921 romantic drama featured Rudolph Valentino and was adapted from a novel, involving multiple countries?",
+    "generated_answer": "I can answer that!\n\nAccording to Document [1], the 1921 romantic drama featuring Rudolph Valentino and adapted from a novel, involving multiple countries, is \"The Four Horsemen of the Apocalypse\".",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd70b4",
+      "movie_573a1391f29313caabcd7472",
+      "movie_573a1394f29313caabcde672",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdff62"
+    ],
+    "pert_ids": [
+      "movie_573a1391f29313caabcd70b4",
+      "movie_573a1391f29313caabcd7472",
+      "movie_573a1394f29313caabcde672",
+      "movie_573a1394f29313caabcdff62",
+      "movie_573a1392f29313caabcda7fb"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1391f29313caabcd70b4",
+        "text": "Title: The Four Horsemen of the Apocalypse. Genres: Drama, Romance, War. Cast: Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolph Valentino. Directors: Rex Ingram. Writers: Vicente Blasco Ibèèez, June Mathis. Countries: USA. Year: 1921. Awards: 1 win.",
+        "metadata": {
+          "imdb_rating": 7.9,
+          "title": "The Four Horsemen of the Apocalypse",
+          "award_nominations": 0,
+          "countries": "USA",
+          "award_wins": 1,
+          "rated": "PASSED",
+          "num_mflix_comments": 1,
+          "type": "movie",
+          "source": "movies",
+          "genres": "Drama, Romance, War",
+          "imdb_votes": 2475,
+          "year": 1921,
+          "directors": "Rex Ingram",
+          "cast": "Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolph Valentino",
+          "languages": "",
+          "viewer_meter": 76,
+          "runtime": 150,
+          "viewer_rating": 3.9
+        },
+        "score": 0.9571
+      },
+      {
+        "id": "movie_573a1391f29313caabcd7472",
+        "text": "Title: Foolish Wives. Genres: Drama. Cast: Rudolph Christians, Miss DuPont, Maude George, Mae Busch. Directors: Erich von Stroheim. Writers: Erich von Stroheim, Marian Ainslee, Walter Anthony. Countries: USA. Languages: English. Year: 1922. Awards: 1 win.",
+        "metadata": {
+          "cast": "Rudolph Christians, Miss DuPont, Maude George, Mae Busch",
+          "imdb_votes": 1777,
+          "source": "movies",
+          "runtime": 117,
+          "viewer_rating": 3.7,
+          "num_mflix_comments": 0,
+          "title": "Foolish Wives",
+          "award_nominations": 0,
+          "imdb_rating": 7.3,
+          "rated": "",
+          "year": 1922,
+          "award_wins": 1,
+          "genres": "Drama",
+          "languages": "English",
+          "countries": "USA",
+          "type": "movie",
+          "directors": "Erich von Stroheim",
+          "viewer_meter": 77
+        },
+        "score": 0.0908
+      },
+      {
+        "id": "movie_573a1394f29313caabcde672",
+        "text": "Title: D.O.A.. Genres: Drama, Film-Noir, Mystery. Cast: Edmond O'Brien, Pamela Britton, Luther Adler, Beverly Garland. Directors: Rudolph Matè. Writers: Russell Rouse, Clarence Greene, Russell Rouse, Clarence Greene. Countries: USA. Languages: English. Year: 1950. Awards: 1 win.",
+        "metadata": {
+          "genres": "Drama, Film-Noir, Mystery",
+          "num_mflix_comments": 0,
+          "cast": "Edmond O'Brien, Pamela Britton, Luther Adler, Beverly Garland",
+          "rated": "APPROVED",
+          "imdb_rating": 7.4,
+          "runtime": 83,
+          "title": "D.O.A.",
+          "countries": "USA",
+          "award_nominations": 0,
+          "year": 1950,
+          "source": "movies",
+          "viewer_meter": 76,
+          "imdb_votes": 7467,
+          "languages": "English",
+          "type": "movie",
+          "viewer_rating": 3.6,
+          "directors": "Rudolph Matè",
+          "award_wins": 1
+        },
+        "score": 0.0127
+      },
+      {
+        "id": "movie_573a1391f29313caabcd7a34",
+        "text": "Title: A Woman of Paris: A Drama of Fate. Genres: Drama, Romance. Cast: Edna Purviance, Clarence Geldart, Carl Miller, Lydia Knott. Directors: Charles Chaplin. Writers: Charles Chaplin. Countries: USA. Year: 1923. Awards: 1 win.",
+        "metadata": {
+          "imdb_rating": 7.1,
+          "viewer_meter": 78,
+          "viewer_rating": 3.7,
+          "award_nominations": 0,
+          "runtime": 78,
+          "year": 1923,
+          "imdb_votes": 3179,
+          "countries": "USA",
+          "award_wins": 1,
+          "title": "A Woman of Paris: A Drama of Fate",
+          "source": "movies",
+          "type": "movie",
+          "languages": "",
+          "rated": "TV-PG",
+          "cast": "Edna Purviance, Clarence Geldart, Carl Miller, Lydia Knott",
+          "genres": "Drama, Romance",
+          "directors": "Charles Chaplin",
+          "num_mflix_comments": 1
+        },
+        "score": 0.0018
+      },
+      {
+        "id": "movie_573a1394f29313caabcdff62",
+        "text": "Title: The Violent Men. Genres: Western. Cast: Glenn Ford, Barbara Stanwyck, Edward G. Robinson, Dianne Foster. Directors: Rudolph Matè. Writers: Harry Kleiner, Donald Hamilton. Countries: USA. Languages: English. Year: 1955. Awards: 1 win.",
+        "metadata": {
+          "rated": "APPROVED",
+          "languages": "English",
+          "viewer_meter": 70,
+          "directors": "Rudolph Matè",
+          "type": "movie",
+          "award_wins": 1,
+          "countries": "USA",
+          "title": "The Violent Men",
+          "year": 1955,
+          "imdb_votes": 1477,
+          "cast": "Glenn Ford, Barbara Stanwyck, Edward G. Robinson, Dianne Foster",
+          "genres": "Western",
+          "award_nominations": 0,
+          "viewer_rating": 3.4,
+          "num_mflix_comments": 0,
+          "runtime": 96,
+          "imdb_rating": 7.0,
+          "source": "movies"
+        },
+        "score": 0.0014
+      }
+    ],
+    "query_time": 1.9036486000113655
+  },
+  "14": {
+    "query": "Find a Western film from the 1920s directed by the same filmmaker who later became known for American epics such as Stagecoach.",
+    "generated_answer": "Error: Failed to connect to Ollama: timed out",
+    "orig_ids": [
+      "movie_573a1394f29313caabce031a",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1392f29313caabcda482",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1393f29313caabcdceb0"
+    ],
+    "pert_ids": [
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcde460",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdceb0",
+      "movie_573a1393f29313caabcdded2"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1394f29313caabce031a",
+        "text": "Title: Seven Men from Now. Genres: Western. Cast: Randolph Scott, Gail Russell, Lee Marvin, Walter Reed. Directors: Budd Boetticher. Writers: Burt Kennedy. Countries: USA. Languages: English. Year: 1956. Awards: 1 nomination.",
+        "metadata": {
+          "viewer_meter": 81,
+          "countries": "USA",
+          "cast": "Randolph Scott, Gail Russell, Lee Marvin, Walter Reed",
+          "viewer_rating": 3.5,
+          "runtime": 78,
+          "languages": "English",
+          "award_nominations": 1,
+          "type": "movie",
+          "year": 1956,
+          "award_wins": 0,
+          "imdb_rating": 7.6,
+          "source": "movies",
+          "num_mflix_comments": 1,
+          "title": "Seven Men from Now",
+          "rated": "APPROVED",
+          "directors": "Budd Boetticher",
+          "genres": "Western",
+          "imdb_votes": 3072
+        },
+        "score": 0.0026
+      },
+      {
+        "id": "movie_573a1394f29313caabcdf61c",
+        "text": "Title: The Sun Shines Bright. Genres: Comedy, Drama, Western. Cast: Charles Winninger, Arleen Whelan, John Russell, Stepin Fetchit. Directors: John Ford. Writers: Laurence Stallings, Irvin S. Cobb, \"The Mob from Massac\" and \"The Lord Provides\"). Countries: USA. Languages: English, German. Year: 1953. Awards: Nominated for 1 BAFTA Film Award. Another 1 nomination.",
+        "metadata": {
+          "directors": "John Ford",
+          "award_nominations": 2,
+          "num_mflix_comments": 0,
+          "runtime": 90,
+          "year": 1953,
+          "imdb_votes": 744,
+          "cast": "Charles Winninger, Arleen Whelan, John Russell, Stepin Fetchit",
+          "genres": "Comedy, Drama, Western",
+          "viewer_meter": 71,
+          "languages": "English, German",
+          "viewer_rating": 3.8,
+          "award_wins": 0,
+          "rated": "APPROVED",
+          "title": "The Sun Shines Bright",
+          "imdb_rating": 7.2,
+          "source": "movies",
+          "countries": "USA",
+          "type": "movie"
+        },
+        "score": 0.0009
+      },
+      {
+        "id": "movie_573a1392f29313caabcda482",
+        "text": "Title: The Man Who Knew Too Much. Genres: Crime, Film-Noir, Mystery. Cast: Leslie Banks, Edna Best, Peter Lorre, Frank Vosper. Directors: Alfred Hitchcock. Writers: Charles Bennett, D.B. Wyndham-Lewis, Edwin Greenwood, A.R. Rawlinson. Countries: UK. Languages: English, German, Italian. Year: 1934. Awards: 2 wins.",
+        "metadata": {
+          "source": "movies",
+          "cast": "Leslie Banks, Edna Best, Peter Lorre, Frank Vosper",
+          "award_nominations": 0,
+          "year": 1934,
+          "runtime": 75,
+          "languages": "English, German, Italian",
+          "genres": "Crime, Film-Noir, Mystery",
+          "title": "The Man Who Knew Too Much",
+          "rated": "APPROVED",
+          "viewer_meter": 67,
+          "imdb_votes": 11639,
+          "imdb_rating": 6.9,
+          "num_mflix_comments": 0,
+          "award_wins": 2,
+          "type": "movie",
+          "viewer_rating": 3.5,
+          "countries": "UK",
+          "directors": "Alfred Hitchcock"
+        },
+        "score": 0.0003
+      },
+      {
+        "id": "movie_573a1393f29313caabcdce23",
+        "text": "Title: The Memphis Belle: A Story of a Flying Fortress. Genres: Documentary, History, War. Cast: Stanley Wray, Robert Morgan, James A. Verinis, Robert J. Hanson. Directors: William Wyler. Writers: Jerome Chodorov, Lester Koenig, William Wyler. Countries: USA. Languages: English. Year: 1944. Awards: 3 wins.",
+        "metadata": {
+          "title": "The Memphis Belle: A Story of a Flying Fortress",
+          "viewer_meter": 83,
+          "genres": "Documentary, History, War",
+          "award_nominations": 0,
+          "imdb_votes": 569,
+          "year": 1944,
+          "viewer_rating": 3.5,
+          "countries": "USA",
+          "num_mflix_comments": 0,
+          "type": "movie",
+          "rated": "",
+          "cast": "Stanley Wray, Robert Morgan, James A. Verinis, Robert J. Hanson",
+          "directors": "William Wyler",
+          "languages": "English",
+          "award_wins": 3,
+          "runtime": 45,
+          "source": "movies",
+          "imdb_rating": 7.4
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1393f29313caabcdceb0",
+        "text": "Title: Report from the Aleutians. Genres: Documentary, War. Cast: John Huston, Walter Huston, Milton Ashkin, Lyle A. Bean. Directors: John Huston. Countries: USA. Languages: English. Year: 1943. Awards: Nominated for 1 Oscar. Another 1 win.",
+        "metadata": {
+          "viewer_meter": 67,
+          "source": "movies",
+          "languages": "English",
+          "genres": "Documentary, War",
+          "countries": "USA",
+          "num_mflix_comments": 0,
+          "imdb_rating": 6.6,
+          "type": "movie",
+          "directors": "John Huston",
+          "runtime": 47,
+          "viewer_rating": 3.2,
+          "year": 1943,
+          "title": "Report from the Aleutians",
+          "rated": "",
+          "award_nominations": 0,
+          "imdb_votes": 130,
+          "cast": "John Huston, Walter Huston, Milton Ashkin, Lyle A. Bean",
+          "award_wins": 2
+        },
+        "score": 0.0002
+      }
+    ],
+    "query_time": 11.003932499996154
+  },
+  "15": {
+    "query": "Identify a pre-World War I American film where the person responsible for the story also appeared on screen as a performer.",
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents, as none of them mention a pre-World War I American film or a filmmaker who appeared on screen as a performer. The films listed are from 1939 to 1953, and while some of them may feature writers or directors who also acted in their own films, there is no information about pre-World War I films or performers among the provided documents.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1392f29313caabcdbabd",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1393f29313caabcdde97"
+    ],
+    "pert_ids": [
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1393f29313caabcdd679",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1392f29313caabcdbabd"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1394f29313caabcdf691",
+        "text": "Title: The War of the Worlds. Genres: Action, Sci-Fi, Thriller. Cast: Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite. Directors: Byron Haskin. Writers: H.G. Wells, Barrè Lyndon. Countries: USA. Languages: English, Spanish. Year: 1953. Awards: Won 1 Oscar. Another 4 wins & 2 nominations.",
+        "metadata": {
+          "award_nominations": 2,
+          "type": "movie",
+          "cast": "Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite",
+          "num_mflix_comments": 1,
+          "runtime": 85,
+          "viewer_rating": 3.5,
+          "source": "movies",
+          "genres": "Action, Sci-Fi, Thriller",
+          "viewer_meter": 83,
+          "directors": "Byron Haskin",
+          "award_wins": 5,
+          "imdb_votes": 23580,
+          "languages": "English, Spanish",
+          "year": 1953,
+          "title": "The War of the Worlds",
+          "imdb_rating": 7.1,
+          "countries": "USA",
+          "rated": "APPROVED"
+        },
+        "score": 0.0004
+      },
+      {
+        "id": "movie_573a1392f29313caabcdbabd",
+        "text": "Title: Confessions of a Nazi Spy. Genres: Drama, War. Cast: Edward G. Robinson, Francis Lederer, George Sanders, Paul Lukas. Directors: Anatole Litvak. Writers: Milton Krims, John Wexley, Leon G. Turrou. Countries: USA. Languages: English, German. Year: 1939. Awards: 2 wins.",
+        "metadata": {
+          "imdb_votes": 953,
+          "title": "Confessions of a Nazi Spy",
+          "directors": "Anatole Litvak",
+          "genres": "Drama, War",
+          "source": "movies",
+          "countries": "USA",
+          "type": "movie",
+          "award_nominations": 0,
+          "viewer_rating": 3.1,
+          "viewer_meter": 53,
+          "cast": "Edward G. Robinson, Francis Lederer, George Sanders, Paul Lukas",
+          "year": 1939,
+          "imdb_rating": 6.8,
+          "languages": "English, German",
+          "award_wins": 2,
+          "runtime": 104,
+          "rated": "APPROVED",
+          "num_mflix_comments": 1
+        },
+        "score": 0.0004
+      },
+      {
+        "id": "movie_573a1393f29313caabcdce23",
+        "text": "Title: The Memphis Belle: A Story of a Flying Fortress. Genres: Documentary, History, War. Cast: Stanley Wray, Robert Morgan, James A. Verinis, Robert J. Hanson. Directors: William Wyler. Writers: Jerome Chodorov, Lester Koenig, William Wyler. Countries: USA. Languages: English. Year: 1944. Awards: 3 wins.",
+        "metadata": {
+          "cast": "Stanley Wray, Robert Morgan, James A. Verinis, Robert J. Hanson",
+          "imdb_votes": 569,
+          "languages": "English",
+          "type": "movie",
+          "num_mflix_comments": 0,
+          "source": "movies",
+          "directors": "William Wyler",
+          "award_nominations": 0,
+          "viewer_rating": 3.5,
+          "rated": "",
+          "runtime": 45,
+          "genres": "Documentary, History, War",
+          "imdb_rating": 7.4,
+          "title": "The Memphis Belle: A Story of a Flying Fortress",
+          "year": 1944,
+          "countries": "USA",
+          "award_wins": 3,
+          "viewer_meter": 83
+        },
+        "score": 0.0003
+      },
+      {
+        "id": "movie_573a1393f29313caabcde300",
+        "text": "Title: I Was a Male War Bride. Genres: Comedy, Romance, War. Cast: Cary Grant, Ann Sheridan, Marion Marshall, Randy Stuart. Directors: Howard Hawks. Writers: Charles Lederer, Leonard Spigelgass, Hagar Wilde, Henri Rochard. Countries: USA. Languages: English, German, French. Year: 1949. Awards: 1 nomination.",
+        "metadata": {
+          "source": "movies",
+          "num_mflix_comments": 1,
+          "rated": "APPROVED",
+          "type": "movie",
+          "countries": "USA",
+          "directors": "Howard Hawks",
+          "languages": "English, German, French",
+          "viewer_rating": 3.6,
+          "viewer_meter": 71,
+          "imdb_rating": 7.1,
+          "award_wins": 0,
+          "cast": "Cary Grant, Ann Sheridan, Marion Marshall, Randy Stuart",
+          "award_nominations": 1,
+          "title": "I Was a Male War Bride",
+          "year": 1949,
+          "imdb_votes": 5525,
+          "runtime": 105,
+          "genres": "Comedy, Romance, War"
+        },
+        "score": 0.0002
+      },
+      {
+        "id": "movie_573a1393f29313caabcdde97",
+        "text": "Title: A Foreign Affair. Genres: Comedy, Drama, Romance. Cast: Jean Arthur, Marlene Dietrich, John Lund, Millard Mitchell. Directors: Billy Wilder. Writers: Charles Brackett, Billy Wilder, Richard L. Breen, Robert Harari. Countries: USA. Languages: English, German. Year: 1948. Awards: Nominated for 2 Oscars. Another 1 nomination.",
+        "metadata": {
+          "imdb_votes": 4090,
+          "languages": "English, German",
+          "runtime": 116,
+          "viewer_meter": 77,
+          "cast": "Jean Arthur, Marlene Dietrich, John Lund, Millard Mitchell",
+          "award_wins": 0,
+          "num_mflix_comments": 1,
+          "year": 1948,
+          "award_nominations": 3,
+          "viewer_rating": 3.8,
+          "directors": "Billy Wilder",
+          "type": "movie",
+          "genres": "Comedy, Drama, Romance",
+          "countries": "USA",
+          "title": "A Foreign Affair",
+          "source": "movies",
+          "rated": "APPROVED",
+          "imdb_rating": 7.5
+        },
+        "score": 0.0001
+      }
+    ],
+    "query_time": 0.859845500002848
+  },
+  "16": {
+    "query": "Which silent-era American short film used agrarian imagery to critique the concentration of economic power among a wealthy elite?",
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about feature films, and do not include any data on silent-era American shorts or agrarian imagery.",
+    "orig_ids": [
+      "movie_573a1392f29313caabcda094",
+      "movie_573a1393f29313caabcdcef2",
+      "movie_573a1394f29313caabcdfebb",
+      "movie_573a1394f29313caabcdec82",
+      "movie_573a1394f29313caabcde75e"
+    ],
+    "pert_ids": [
+      "movie_573a1393f29313caabcdd5cc",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1394f29313caabcdec82",
+      "movie_573a1394f29313caabcdfebb",
+      "movie_573a1394f29313caabcde75e"
+    ],
+    "retrieved_docs": [
+      {
+        "id": "movie_573a1392f29313caabcda094",
+        "text": "Title: The Power and the Glory. Genres: Drama. Cast: Spencer Tracy, Colleen Moore, Ralph Morgan, Helen Vinson. Directors: William K. Howard. Writers: Preston Sturges. Countries: USA. Languages: English. Year: 1933. Awards: 1 win.",
+        "metadata": {
+          "runtime": 76,
+          "genres": "Drama",
+          "imdb_votes": 424,
+          "num_mflix_comments": 1,
+          "viewer_meter": 62,
+          "languages": "English",
+          "viewer_rating": 3.4,
+          "award_wins": 1,
+          "source": "movies",
+          "directors": "William K. Howard",
+          "cast": "Spencer Tracy, Colleen Moore, Ralph Morgan, Helen Vinson",
+          "imdb_rating": 6.9,
+          "type": "movie",
+          "title": "The Power and the Glory",
+          "award_nominations": 0,
+          "year": 1933,
+          "countries": "USA",
+          "rated": "PASSED"
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1393f29313caabcdcef2",
+        "text": "Title: Shadow of a Doubt. Genres: Thriller. Cast: Teresa Wright, Joseph Cotten, Macdonald Carey, Henry Travers. Directors: Alfred Hitchcock. Writers: Thornton Wilder, Sally Benson, Alma Reville, Gordon McDonell. Countries: USA. Languages: English. Year: 1943. Awards: Nominated for 1 Oscar. Another 1 win & 2 nominations.",
+        "metadata": {
+          "imdb_votes": 42418,
+          "year": 1943,
+          "imdb_rating": 8.0,
+          "source": "movies",
+          "directors": "Alfred Hitchcock",
+          "countries": "USA",
+          "award_nominations": 2,
+          "languages": "English",
+          "genres": "Thriller",
+          "viewer_meter": 90,
+          "runtime": 108,
+          "type": "movie",
+          "cast": "Teresa Wright, Joseph Cotten, Macdonald Carey, Henry Travers",
+          "title": "Shadow of a Doubt",
+          "viewer_rating": 4.0,
+          "rated": "APPROVED",
+          "num_mflix_comments": 0,
+          "award_wins": 2
+        },
+        "score": 0.0001
+      },
+      {
+        "id": "movie_573a1394f29313caabcdfebb",
+        "text": "Title: Smiles of a Summer Night. Genres: Comedy, Romance. Cast: Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson, Margit Carlqvist. Directors: Ingmar Bergman. Writers: Ingmar Bergman. Countries: Sweden. Languages: Swedish. Year: 1955. Awards: Nominated for 3 BAFTA Film Awards. Another 2 wins & 1 nomination.",
+        "metadata": {
+          "languages": "Swedish",
+          "year": 1955,
+          "genres": "Comedy, Romance",
+          "imdb_votes": 8389,
+          "type": "movie",
+          "viewer_meter": 89,
+          "imdb_rating": 8.0,
+          "viewer_rating": 4.1,
+          "award_wins": 5,
+          "title": "Smiles of a Summer Night",
+          "cast": "Ulla Jacobsson, Eva Dahlbeck, Harriet Andersson, Margit Carlqvist",
+          "award_nominations": 1,
+          "rated": "APPROVED",
+          "runtime": 108,
+          "directors": "Ingmar Bergman",
+          "num_mflix_comments": 0,
+          "source": "movies",
+          "countries": "Sweden"
+        },
+        "score": 0.0
+      },
+      {
+        "id": "movie_573a1394f29313caabcdec82",
+        "text": "Title: The Little World of Don Camillo. Genres: Comedy. Cast: Fernandel, Gino Cervi, Vera Talchi, Franco Interlenghi. Directors: Julien Duvivier. Writers: Giovanni Guareschi, Julien Duvivier, Renè Barjavel. Countries: Italy, France. Languages: Italian. Year: 1952. Awards: Nominated for 1 BAFTA Film Award. Another 4 wins.",
+        "metadata": {
+          "source": "movies",
+          "viewer_meter": 81,
+          "title": "The Little World of Don Camillo",
+          "rated": "",
+          "num_mflix_comments": 1,
+          "genres": "Comedy",
+          "runtime": 107,
+          "year": 1952,
+          "viewer_rating": 3.9,
+          "imdb_votes": 2796,
+          "cast": "Fernandel, Gino Cervi, Vera Talchi, Franco Interlenghi",
+          "directors": "Julien Duvivier",
+          "award_nominations": 0,
+          "imdb_rating": 7.8,
+          "countries": "Italy, France",
+          "type": "movie",
+          "languages": "Italian",
+          "award_wins": 5
+        },
+        "score": 0.0
+      },
+      {
+        "id": "movie_573a1394f29313caabcde75e",
+        "text": "Title: Diary of a Country Priest. Genres: Drama. Cast: Claude Laydu, Jean Riveyre, Adrien Borel, Rachel Bèrendt. Directors: Robert Bresson. Writers: Georges Bernanos, Robert Bresson. Countries: France. Languages: French. Year: 1951. Awards: Nominated for 1 BAFTA Film Award. Another 7 wins & 1 nomination.",
+        "metadata": {
+          "genres": "Drama",
+          "imdb_rating": 8.0,
+          "title": "Diary of a Country Priest",
+          "rated": "APPROVED",
+          "cast": "Claude Laydu, Jean Riveyre, Adrien Borel, Rachel Bèrendt",
+          "countries": "France",
+          "viewer_meter": 85,
+          "year": 1951,
+          "award_wins": 8,
+          "type": "movie",
+          "languages": "French",
+          "source": "movies",
+          "directors": "Robert Bresson",
+          "award_nominations": 1,
+          "num_mflix_comments": 0,
+          "viewer_rating": 4.1,
+          "imdb_votes": 6141,
+          "runtime": 95
+        },
+        "score": 0.0
+      }
+    ],
+    "query_time": 0.7780282000021543
+  },
+  "Vector RAG|0": {
+    "generated_answer": "According to Document [1], Edwin S. Porter directed \"The Great Train Robbery\".",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1393f29313caabcdd86b"
+    ],
+    "pert_ids": [
+      "movie_573a1393f29313caabcdc5dc",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1394f29313caabcdff4c",
+      "movie_573a1391f29313caabcd820b",
+      "movie_573a1393f29313caabcdd179"
+    ]
+  },
+  "Vector RAG|1": {
+    "generated_answer": "According to Document [1], Gertie the Dinosaur belongs to the genres \"Animation\", \"Short\", and \"Comedy\".",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1393f29313caabcdbf81",
+      "movie_573a1394f29313caabcdfb13",
+      "movie_573a1392f29313caabcdb672",
+      "movie_573a1394f29313caabcdfdf9"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|2": {
+    "generated_answer": "According to Document [1], the director of \"Traffic in Souls\" is George Loane Tucker.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1391f29313caabcd9688",
+      "movie_573a1391f29313caabcd9269",
+      "movie_573a1394f29313caabcdf8a9",
+      "movie_573a1391f29313caabcd8cef"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|3": {
+    "generated_answer": "According to Document [1], \"A Corner in Wheat\" was released in the year 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcdc207",
+      "movie_573a1391f29313caabcd7f11",
+      "movie_573a1393f29313caabcdbef1",
+      "movie_573a1392f29313caabcdb18f"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|4": {
+    "generated_answer": "Based on Document [1], John Ford directed the 1924 Western film The Iron Horse.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1393f29313caabcdde97",
+      "movie_573a1393f29313caabcdc2e2",
+      "movie_573a1392f29313caabcda82b",
+      "movie_573a1393f29313caabcdda18"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|5": {
+    "generated_answer": "According to Document [1], the genres of Steamboat Willie are Animation, Family, and Comedy.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1392f29313caabcda722",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1391f29313caabcd8268"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|6": {
+    "generated_answer": "According to Document [1], the directors of the 1927 war film \"Wings\" are William A. Wellman and Harry d'Abbadie d'Arrast.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1393f29313caabcdde0f",
+      "movie_573a1393f29313caabcdca76",
+      "movie_573a1392f29313caabcdb970",
+      "movie_573a1392f29313caabcdb980"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|7": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only contain information about feature films, but they do not mention animated shorts or their writers and directors.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf91f",
+      "movie_573a1392f29313caabcda64c",
+      "movie_573a1392f29313caabcdae3d",
+      "movie_573a1392f29313caabcda4b0",
+      "movie_573a1394f29313caabcde63e"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|8": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about films released between 1946 and 1951, but the question asks for a film from 1913.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcde453",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1393f29313caabcdd86b",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1393f29313caabcdd937"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|9": {
+    "generated_answer": "According to Document [1], the early 1900s silent Western short film that involves a train robbery and was produced in the USA is \"The Great Train Robbery\" (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0230",
+      "movie_573a1392f29313caabcdae3d",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1394f29313caabcde962"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|10": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not contain any information about D.W. Griffith or a drama short film released before 1910 in the United States.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf91f",
+      "movie_573a1394f29313caabcdfaf6",
+      "movie_573a1392f29313caabcdb5cb",
+      "movie_573a1393f29313caabcde061",
+      "movie_573a1393f29313caabcdca03"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|11": {
+    "generated_answer": "Based on the provided documents, I found that Steamboat Willie (Document [1]) was a 1928 animated film produced by Walt Disney, and it featured only one cast member listed, which is Walt Disney himself.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde63e",
+      "movie_573a1393f29313caabcdbfb0",
+      "movie_573a1392f29313caabcda64c",
+      "movie_573a1394f29313caabcdf534"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|12": {
+    "generated_answer": "Wings (Document [2]) is a World War I aviation drama that stars Clara Bow and was produced in the USA.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8780",
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1392f29313caabcdb5cb",
+      "movie_573a1392f29313caabcdae3d",
+      "movie_573a1394f29313caabcdf376"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|13": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. None of the documents mention a 1921 romantic drama featuring Rudolph Valentino or being adapted from a novel, involving multiple countries.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdfd10",
+      "movie_573a1393f29313caabcdde97",
+      "movie_573a1394f29313caabcdf1bd",
+      "movie_573a1392f29313caabcda4b0",
+      "movie_573a1392f29313caabcd9d4c"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|14": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcde962",
+      "movie_573a1393f29313caabcdc2e2",
+      "movie_573a1391f29313caabcd91dc",
+      "movie_573a1393f29313caabcdde97",
+      "movie_573a1391f29313caabcd8f66"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|15": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only provide information about films released between 1938 and 1953, but do not contain any information about pre-World War I American films or specific details about their production.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcdca76",
+      "movie_573a1393f29313caabcdcf2f",
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1393f29313caabcdccb6",
+      "movie_573a1392f29313caabcdb980"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|16": {
+    "generated_answer": "I do not have enough information to answer this question. None of the provided documents mention a silent-era American short film that uses agrarian imagery to critique the concentration of economic power among a wealthy elite. The documents only provide information about feature films, and none of them match the description given in the question.",
+    "orig_ids": [
+      "movie_573a1394f29313caabce0230",
+      "movie_573a1390f29313caabcd6223",
+      "movie_573a1393f29313caabcdc50e",
+      "movie_573a1392f29313caabcdae3d",
+      "movie_573a1391f29313caabcd7f11"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|17": {
+    "generated_answer": "Based on the provided documents, I found that \"Broncho Billy\" Anderson appears in the film \"The Great Train Robbery\" (1903) alongside George Barnes.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1393f29313caabcdc403",
+      "movie_573a1394f29313caabcdf902",
+      "movie_573a1391f29313caabcd79e4",
+      "movie_573a1394f29313caabcdfc17"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|18": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only mention awards and movies released in the 1940s, but do not provide any information about films from the late 1920s.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcdcc03",
+      "movie_573a1393f29313caabcde1dd",
+      "movie_573a1393f29313caabcdccb6",
+      "movie_573a1394f29313caabcdea4e",
+      "movie_573a1393f29313caabcdd0b6"
+    ],
+    "pert_ids": []
+  },
+  "Vector RAG|19": {
+    "generated_answer": "I do not have enough information to answer this question as none of the provided documents mention a specific animated short film from 1928 or introduce a character that became an icon in entertainment history.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf0b6",
+      "movie_573a1394f29313caabcdf376",
+      "movie_573a1393f29313caabcdbf81",
+      "movie_573a1392f29313caabcdae3d",
+      "movie_573a1392f29313caabcda722"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|0": {
+    "generated_answer": "Based on the provided documents, I can answer that Edwin S. Porter directed \"The Great Train Robbery\". (Document [1])",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1394f29313caabce0143",
+      "movie_573a1394f29313caabcdeb3d"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|1": {
+    "generated_answer": "According to Document [1], Gertie the Dinosaur belongs to the genres \"Animation\", \"Short\", and \"Comedy\".",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1392f29313caabcda094",
+      "movie_573a1393f29313caabcdd9da",
+      "movie_573a1393f29313caabcdc207",
+      "movie_573a1392f29313caabcdbd80"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|2": {
+    "generated_answer": "According to document [1], the director of \"Traffic in Souls\" is George Loane Tucker.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1393f29313caabcdc558",
+      "movie_573a1392f29313caabcda482"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|3": {
+    "generated_answer": "According to Document [1], \"A Corner in Wheat\" was released in 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabcdfea1",
+      "movie_573a1393f29313caabcddf2b"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|4": {
+    "generated_answer": "John Ford.",
+    "orig_ids": [
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1392f29313caabcda482",
+      "movie_573a1393f29313caabcdc558",
+      "movie_573a1394f29313caabce01f6"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|5": {
+    "generated_answer": "According to Document [1], the genres of Steamboat Willie are Animation, Family, and Comedy.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1393f29313caabcdca3f",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1393f29313caabcdcf2f",
+      "movie_573a1390f29313caabcd516c"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|6": {
+    "generated_answer": "I do not have enough information to answer this question, as none of the provided documents mention a war film called \"Wings\" released in 1927.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1390f29313caabcd5ea4",
+      "movie_573a1394f29313caabcdfc64",
+      "movie_573a1394f29313caabcde91d"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|7": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The question asks about an animated short from 1914, but none of the documents mention such a film or provide any information about its creators.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcdded2",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1393f29313caabcde300"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|8": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not contain any information about a specific early American crime drama film from 1913 involving human trafficking, nor is there any mention of such a film in the genres or plot descriptions. If you're looking for information on Charles Chaplin's films, Document [5] provides some details, but it does not specifically mention human trafficking or an early American crime drama film.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcde9e7",
+      "movie_573a1394f29313caabcdf5f3",
+      "movie_573a1394f29313caabcdec05",
+      "movie_573a1394f29313caabce0259",
+      "movie_573a1391f29313caabcd7a34"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|9": {
+    "generated_answer": "According to Document [4], The Great Train Robbery, a silent Western short film involving a train robbery, was produced in the USA in 1903.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0230"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|10": {
+    "generated_answer": "Based on the provided documents, I can answer that A Corner in Wheat (1909) is a D.W. Griffith drama short, but it was not released before 1910 in the United States.\n\nI do not have enough information to answer this question because there is no other D.W. Griffith drama short mentioned in the provided documents with a release date prior to 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcdc4b3"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|11": {
+    "generated_answer": "Based on the provided documents, I can answer that Steamboat Willie (Document [1]) is a 1928 animated film produced by Walt Disney that features only one cast member listed, which is Walt Disney.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcdf03f",
+      "movie_573a1393f29313caabcdded2",
+      "movie_573a1394f29313caabcdfe09",
+      "movie_573a1391f29313caabcd6e2a"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|12": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents, as none of them mention a World War I aviation drama starring Clara Bow.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabce0003",
+      "movie_573a1394f29313caabcdfd07",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1394f29313caabcdf691"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|13": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not contain any information about a 1921 romantic drama featuring Rudolph Valentino and adapted from a novel, involving multiple countries. The documents only provide information about films released in the years 1923, 1949, 1952, and 1955.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabcdf0b7",
+      "movie_573a1394f29313caabcdf61c"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|14": {
+    "generated_answer": "I do not have enough information to answer this question. None of the provided documents mention any Western films from the 1920s, nor do they provide information about a filmmaker known for directing American epics like Stagecoach. John Ford is mentioned in Document [4], but only in relation to his work on The Sun Shines Bright (1953), not to a Western film from the 1920s.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1394f29313caabcdfe01",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcdd659"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|15": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only mention the titles, genres, cast, directors, writers, countries, languages, and years of release, but none of them provide information about pre-World War I American films or the involvement of someone responsible for the story as a performer in those films.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1392f29313caabcdaf1c",
+      "movie_573a1394f29313caabcdfe01",
+      "movie_573a1392f29313caabcd98c3"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|16": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not mention any silent-era American short films, nor do they discuss agrarian imagery or critiques of economic power. The context only includes information about feature-length films from Sweden, France, Germany, and the USA, but no short films are mentioned.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdfebb",
+      "movie_573a1394f29313caabcde75e",
+      "movie_573a1392f29313caabcda094",
+      "movie_573a1393f29313caabcdd859",
+      "movie_573a1391f29313caabcd7a34"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|17": {
+    "generated_answer": "According to Document [1], A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, and George Barnes are listed as part of the cast for \"The Great Train Robbery\". Therefore, the answer is: The Great Train Robbery (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1394f29313caabcdf811",
+      "movie_573a1390f29313caabcd516c",
+      "movie_573a1392f29313caabcdb148"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|18": {
+    "generated_answer": "I do not have enough information to answer this question, as none of the provided documents mention a specific late 1920s American film that won the first ever Academy Award for Outstanding Picture or depicted aerial combat during the Great War.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1394f29313caabcdeb3d",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1394f29313caabce035a",
+      "movie_573a1394f29313caabcdfd61"
+    ],
+    "pert_ids": []
+  },
+  "BM25 RAG|19": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not mention any 1928 animated short films or introduce a character that became an iconic icon in entertainment history.",
+    "orig_ids": [
+      "movie_573a1392f29313caabcdb3aa",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1394f29313caabcdfebb"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|0": {
+    "generated_answer": "Edwin S. Porter directed \"The Great Train Robbery\".",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1393f29313caabcdc030",
+      "movie_573a1394f29313caabcded03"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|1": {
+    "generated_answer": "According to document [1], Gertie the Dinosaur belongs to the following genres: Animation, Short, Comedy.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1393f29313caabcdbf81",
+      "movie_573a1394f29313caabcdfb13",
+      "movie_573a1392f29313caabcdb672",
+      "movie_573a1394f29313caabcdfdf9"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|2": {
+    "generated_answer": "According to Document [1], the director of \"Traffic in Souls\" is George Loane Tucker.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1391f29313caabcd9688",
+      "movie_573a1393f29313caabcdc558"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|3": {
+    "generated_answer": "According to document [1], the movie \"A Corner in Wheat\" was released in 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabcdfea1",
+      "movie_573a1393f29313caabcddf2b"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|4": {
+    "generated_answer": "John Ford.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1392f29313caabcda482",
+      "movie_573a1393f29313caabcdc558",
+      "movie_573a1394f29313caabce01f6"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|5": {
+    "generated_answer": "Based on Document [1], the genres of Steamboat Willie are Animation, Family, and Comedy.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1394f29313caabcdf376",
+      "movie_573a1393f29313caabcdca3f",
+      "movie_573a1393f29313caabcdcf2f"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|6": {
+    "generated_answer": "I do not have enough information to answer this question. The documents provided do not contain any information about a 1927 war film called \"Wings\".",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1390f29313caabcd5ea4",
+      "movie_573a1394f29313caabcdfc64",
+      "movie_573a1394f29313caabcde91d"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|7": {
+    "generated_answer": "I do not have enough information to answer this question. None of the provided documents mention an animated short from 1914, nor any information about the writer-director-star of such a film. The films listed are all feature-length movies or shorts from the 1930s onwards.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcdded2",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1393f29313caabcde300"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|8": {
+    "generated_answer": "I do not have enough information to answer this question. None of the provided documents mention a specific film from 1913 or any film related to human trafficking. The films mentioned in the documents are from the years 1948, 1951 (twice), and 1953, and they belong to genres like Musical, Romance, Crime, Drama, Film-Noir, Biography, and others, but none of them fit the description of an early American crime drama film from 1913 involving human trafficking.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcde9e7",
+      "movie_573a1393f29313caabcddd6d",
+      "movie_573a1394f29313caabcdf5f3",
+      "movie_573a1394f29313caabcdec05",
+      "movie_573a1394f29313caabce0259"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|9": {
+    "generated_answer": "Based on the provided documents, I found that Document [1] is an early 1900s silent Western short film titled \"The Great Train Robbery\" which was produced in the USA. The answer is:\n\n\"The Great Train Robbery\" (1903)",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0230",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|10": {
+    "generated_answer": "Based on the provided documents, I can answer that A Corner in Wheat (1909) is a D.W. Griffith drama short. However, since the question asks for a release date before 1910, the correct answer would be \"I do not have enough information to answer this question\" because Document [1] only mentions 1909 as the release year of A Corner in Wheat.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcdc4b3"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|11": {
+    "generated_answer": "Based on the provided documents, Steamboat Willie (Document [1]) is a 1928 animated film that features only one cast member listed, which is Walt Disney. Therefore, the answer is Steamboat Willie.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcdf03f",
+      "movie_573a1393f29313caabcdded2",
+      "movie_573a1394f29313caabcdfe09",
+      "movie_573a1391f29313caabcd6e2a"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|12": {
+    "generated_answer": "Based on the provided documents, the answer is:\n\nWings (Document [4])",
+    "orig_ids": [
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabce0003",
+      "movie_573a1391f29313caabcd8780",
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1394f29313caabcdfd07"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|13": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents do not contain any information about a 1921 romantic drama featuring Rudolph Valentino or being adapted from a novel, nor do they involve multiple countries.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1394f29313caabcdf0b7",
+      "movie_573a1394f29313caabcdf61c"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|14": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about films released between 1945 and 1956, but none of them are Western films from the 1920s. Additionally, there is no mention of a filmmaker who later became known for American epics such as Stagecoach.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1394f29313caabcdfe01",
+      "movie_573a1394f29313caabce0202",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1393f29313caabcdd659"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|15": {
+    "generated_answer": "Based on the provided documents, I found that Tabu: A Story of the South Seas (1931) is a pre-World War I American film where the person responsible for the story, F.W. Murnau, also appeared on screen as a performer.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1392f29313caabcdaf1c",
+      "movie_573a1394f29313caabcdfe01",
+      "movie_573a1392f29313caabcd98c3"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|16": {
+    "generated_answer": "I do not have enough information to answer this question, as none of the provided documents contain information about silent-era American short films or agrarian imagery. The documents only provide information about feature-length films from Sweden, France, Germany, and the USA, but none of them are classified as silent-era American short films.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdfebb",
+      "movie_573a1394f29313caabcde75e",
+      "movie_573a1392f29313caabcda094",
+      "movie_573a1393f29313caabcdd859",
+      "movie_573a1391f29313caabcd7a34"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|17": {
+    "generated_answer": "According to Document [1], \"The Great Train Robbery\" (1903), A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, and George Barnes are among the cast. Therefore, the answer is: The early narrative film where \"Broncho Billy\" appears alongside George Barnes is \"The Great Train Robbery\" (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdc403",
+      "movie_573a1394f29313caabcdf902",
+      "movie_573a1394f29313caabcdf811"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|18": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The questions does not match any of the films listed in the given context.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcdc030",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1394f29313caabcdeb3d",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1394f29313caabce035a"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid RAG|19": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about live-action films, and there is no mention of an animated short film or a character that would become one of the most recognizable icons in entertainment history.",
+    "orig_ids": [
+      "movie_573a1392f29313caabcdb3aa",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1394f29313caabcdfdfd",
+      "movie_573a1394f29313caabcdfebb"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|0": {
+    "generated_answer": "According to document [1], Edwin S. Porter directed The Great Train Robbery.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabcded03",
+      "movie_573a1392f29313caabcdaf17",
+      "movie_573a1394f29313caabce0138",
+      "movie_573a1394f29313caabcde70b"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|1": {
+    "generated_answer": "According to Document [1], Gertie the Dinosaur belongs to the genres Animation, Short, and Comedy.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd50e5",
+      "movie_573a1392f29313caabcda9a8",
+      "movie_573a1393f29313caabcdc9ba",
+      "movie_573a1392f29313caabcdb4d5",
+      "movie_573a1394f29313caabcdfb13"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|2": {
+    "generated_answer": "Based on the provided documents, I found that the director of \"Traffic in Souls\" is George Loane Tucker (Document [1]).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4eaf",
+      "movie_573a1393f29313caabcdda01",
+      "movie_573a1391f29313caabcd9688",
+      "movie_573a1392f29313caabcd9d4c",
+      "movie_573a1394f29313caabcdf539"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|3": {
+    "generated_answer": "According to document [1], the movie \"A Corner in Wheat\" was released in 1909.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcdc207",
+      "movie_573a1394f29313caabcdfea1",
+      "movie_573a1391f29313caabcd7f11",
+      "movie_573a1394f29313caabcdfd44"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|4": {
+    "generated_answer": "According to Document [1], John Ford directed the 1924 Western film \"The Iron Horse\".",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd7bc3",
+      "movie_573a1391f29313caabcd70b4",
+      "movie_573a1391f29313caabcd7b98",
+      "movie_573a1394f29313caabcde70b",
+      "movie_573a1394f29313caabcdea4b"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|5": {
+    "generated_answer": "Based on the provided documents, the answer to your question is:\n\nSteamboat Willie (released in 1928) belongs to the genres \"Animation\", \"Family\", and \"Comedy\".",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1394f29313caabcde95f",
+      "movie_573a1394f29313caabcdf376",
+      "movie_573a1393f29313caabcdcf2f",
+      "movie_573a1392f29313caabcda7a4"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|6": {
+    "generated_answer": "According to Document [1], the directors of the 1927 war film \"Wings\" are William A. Wellman and Harry d'Abbadie d'Arrast.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1393f29313caabcdde0f",
+      "movie_573a1394f29313caabcdec8e",
+      "movie_573a1392f29313caabcdac22"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|7": {
+    "generated_answer": "I do not have enough information to answer this question. None of the provided documents mention an animated short from 1914 that was written and directed by someone who also starred in it.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd68d0",
+      "movie_573a1392f29313caabcdab4a",
+      "movie_573a1394f29313caabcdf7e3",
+      "movie_573a1394f29313caabcdf2bb",
+      "movie_573a1394f29313caabce0202"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|8": {
+    "generated_answer": "I do not have enough information to answer this question.",
+    "orig_ids": [
+      "movie_573a1393f29313caabcddd6d",
+      "movie_573a1393f29313caabcde453",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1394f29313caabcde80c",
+      "movie_573a1394f29313caabcdf483"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|9": {
+    "generated_answer": "According to Document [1], the early 1900s silent Western short film that involves a train robbery and was produced in the USA is \"The Great Train Robbery\" (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabce0230",
+      "movie_573a1394f29313caabcde750",
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1394f29313caabcdf61c"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|10": {
+    "generated_answer": "According to Document [1], the D.W. Griffith drama short that was released before 1910 is \"A Corner in Wheat\" (1909).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd446f",
+      "movie_573a1393f29313caabcddcb5",
+      "movie_573a1393f29313caabcdca03",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1393f29313caabcdc371"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|11": {
+    "generated_answer": "Based on the provided documents, Steamboat Willie (Document [1]) is the 1920s animated film produced by Walt Disney that features only one cast member listed, which is Walt Disney himself.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd8cf4",
+      "movie_573a1393f29313caabcdbfb0",
+      "movie_573a1394f29313caabcde63e",
+      "movie_573a1391f29313caabcd6e2a",
+      "movie_573a1394f29313caabcdf534"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|12": {
+    "generated_answer": "Based on the provided documents, the answer is:\n\nWings (1927)\n\nThis film stars Clara Bow and is a US production, which matches the question's criteria. It also belongs to the genres of Drama, Romance, and War, and its release year fits within the late 1920s.",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd89aa",
+      "movie_573a1391f29313caabcd8780",
+      "movie_573a1391f29313caabcd71e3",
+      "movie_573a1390f29313caabcd56df",
+      "movie_573a1391f29313caabcd952a"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|13": {
+    "generated_answer": "Based on the provided documents, I can answer your question as follows:\n\nThe 1921 romantic drama that featured Rudolph Valentino and was adapted from a novel, involving multiple countries is \"The Four Horsemen of the Apocalypse\".",
+    "orig_ids": [
+      "movie_573a1391f29313caabcd70b4",
+      "movie_573a1391f29313caabcd7472",
+      "movie_573a1394f29313caabcde672",
+      "movie_573a1391f29313caabcd7a34",
+      "movie_573a1394f29313caabcdff62"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|14": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only mention John Ford, but they do not specify which Western films he directed in the 1920s.",
+    "orig_ids": [
+      "movie_573a1394f29313caabce031a",
+      "movie_573a1394f29313caabcdf61c",
+      "movie_573a1392f29313caabcda482",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1393f29313caabcdceb0"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|15": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. None of the films listed appear to be pre-World War I American films, and none of the films list the person responsible for the story (i.e., writer) also appearing on screen as a performer.",
+    "orig_ids": [
+      "movie_573a1394f29313caabcdf691",
+      "movie_573a1392f29313caabcdbabd",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1393f29313caabcde300",
+      "movie_573a1393f29313caabcdde97"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|16": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about feature films, and none of them are silent-era American short films.",
+    "orig_ids": [
+      "movie_573a1392f29313caabcda094",
+      "movie_573a1393f29313caabcdcef2",
+      "movie_573a1394f29313caabcdfebb",
+      "movie_573a1394f29313caabcdec82",
+      "movie_573a1394f29313caabcde75e"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|17": {
+    "generated_answer": "Based on the provided documents, I can answer that Broncho Billy appears alongside George Barnes in \"The Great Train Robbery\" (1903).",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabcdfc17",
+      "movie_573a1390f29313caabcd516c",
+      "movie_573a1394f29313caabcdfea1",
+      "movie_573a1393f29313caabcdc403"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|18": {
+    "generated_answer": "I do not have enough information to answer this question based on the provided documents. The documents only contain information about specific films, their genres, casts, directors, writers, countries, languages, years, and awards, but there is no mention of a film from the late 1920s that won the Academy Award for Outstanding Picture or depicted aerial combat during World War I (also known as the Great War).",
+    "orig_ids": [
+      "movie_573a1393f29313caabcdc030",
+      "movie_573a1394f29313caabcdec8e",
+      "movie_573a1392f29313caabcdb700",
+      "movie_573a1390f29313caabcd42e8",
+      "movie_573a1394f29313caabcde80c"
+    ],
+    "pert_ids": []
+  },
+  "Hybrid + Rerank|19": {
+    "generated_answer": "I do not have enough information to answer this question. The provided documents only contain information about films from 1911, 1937, 1944, and 1950, but no information about a 1928 animated short film.",
+    "orig_ids": [
+      "movie_573a1390f29313caabcd4803",
+      "movie_573a1392f29313caabcdb3aa",
+      "movie_573a1393f29313caabcdd659",
+      "movie_573a1393f29313caabcdce23",
+      "movie_573a1394f29313caabcde91d"
+    ],
+    "pert_ids": []
+  }
+}

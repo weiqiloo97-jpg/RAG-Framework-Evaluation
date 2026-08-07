@@ -1,0 +1,162 @@
+[
+  {
+    "query": "Who directed The Great Train Robbery?",
+    "ground_truth": "The Great Train Robbery was directed by Edwin S. Porter.",
+    "relevant_documents": [
+      "Title: The Great Train Robbery. Genres: Short, Western. Cast: A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes. Directors: Edwin S. Porter. Countries: USA."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "What genres does Gertie the Dinosaur belong to?",
+    "ground_truth": "Gertie the Dinosaur belongs to the Animation, Short, and Comedy genres.",
+    "relevant_documents": [
+      "Title: Gertie the Dinosaur. Genres: Animation, Short, Comedy. Cast: Winsor McCay, George McManus, Roy L. McCardell. Directors: Winsor McCay. Writers: Winsor McCay. Countries: USA. Languages: English. Year: 1914."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "Who directed Traffic in Souls?",
+    "ground_truth": "Traffic in Souls was directed by George Loane Tucker.",
+    "relevant_documents": [
+      "Title: Traffic in Souls. Genres: Crime, Drama. Cast: Jane Gail, Ethel Grandin, William H. Turner, Matt Moore. Directors: George Loane Tucker. Countries: USA. Languages: English. Year: 1913."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "What year was A Corner in Wheat released?",
+    "ground_truth": "A Corner in Wheat was released in 1909.",
+    "relevant_documents": [
+      "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "Who directed the 1924 Western film The Iron Horse?",
+    "ground_truth": "The Iron Horse was directed by John Ford.",
+    "relevant_documents": [
+      "Title: The Iron Horse. Genres: Western. Cast: George O'Brien, Madge Bellamy, Charles Edward Bull, Cyril Chadwick. Directors: John Ford. Countries: USA. Languages: English. Year: 1924."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "What is the genre of Steamboat Willie released in 1928?",
+    "ground_truth": "Steamboat Willie is an Animation, Family, Comedy film.",
+    "relevant_documents": [
+      "Title: Steamboat Willie. Genres: Animation, Family, Comedy. Cast: Walt Disney. Directors: Ub Iwerks, Walt Disney. Countries: USA. Languages: English. Year: 1928."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "Who are the directors of the 1927 war film Wings?",
+    "ground_truth": "Wings was directed by William A. Wellman and Harry d'Abbadie d'Arrast.",
+    "relevant_documents": [
+      "Title: Wings. Genres: Drama, Romance, War. Cast: Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston. Directors: William A. Wellman, Harry d'Abbadie d'Arrast. Countries: USA. Languages: English. Year: 1927."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "query": "Which animated short from 1914 was written and directed by the same person who starred in it?",
+    "ground_truth": "Gertie the Dinosaur (1914) was written, directed, and starred Winsor McCay.",
+    "relevant_documents": [
+      "Title: Gertie the Dinosaur. Genres: Animation, Short, Comedy. Cast: Winsor McCay, George McManus, Roy L. McCardell. Directors: Winsor McCay. Writers: Winsor McCay. Countries: USA. Languages: English. Year: 1914."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Name an early American crime drama film from 1913 involving human trafficking.",
+    "ground_truth": "Traffic in Souls (1913) is a Crime, Drama film directed by George Loane Tucker.",
+    "relevant_documents": [
+      "Title: Traffic in Souls. Genres: Crime, Drama. Cast: Jane Gail, Ethel Grandin, William H. Turner, Matt Moore. Directors: George Loane Tucker. Countries: USA. Languages: English. Year: 1913."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Which early 1900s silent Western short film involves a train robbery and was produced in the USA?",
+    "ground_truth": "The Great Train Robbery (1903) is a short Western film directed by Edwin S. Porter, produced in the USA.",
+    "relevant_documents": [
+      "Title: The Great Train Robbery. Genres: Short, Western. Cast: A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes. Directors: Edwin S. Porter. Countries: USA."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "What D.W. Griffith drama short was released before 1910 in the United States?",
+    "ground_truth": "A Corner in Wheat (1909) is a Short, Drama film directed by D.W. Griffith, released in the USA.",
+    "relevant_documents": [
+      "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Which 1920s animated film produced by Walt Disney featured only one cast member listed?",
+    "ground_truth": "Steamboat Willie (1928) is an animated film directed by Ub Iwerks and Walt Disney, with Walt Disney listed as the sole cast member.",
+    "relevant_documents": [
+      "Title: Steamboat Willie. Genres: Animation, Family, Comedy. Cast: Walt Disney. Directors: Ub Iwerks, Walt Disney. Countries: USA. Languages: English. Year: 1928."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Which World War I aviation drama from the late 1920s starred Clara Bow and was produced in the USA?",
+    "ground_truth": "Wings (1927) is a Drama, Romance, War film directed by William A. Wellman and Harry d'Abbadie d'Arrast, starring Clara Bow, produced in the USA.",
+    "relevant_documents": [
+      "Title: Wings. Genres: Drama, Romance, War. Cast: Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston. Directors: William A. Wellman, Harry d'Abbadie d'Arrast. Countries: USA. Languages: English. Year: 1927."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Which 1921 romantic drama featured Rudolph Valentino and was adapted from a novel, involving multiple countries?",
+    "ground_truth": "The Four Horsemen of the Apocalypse (1921) is a Drama, Romance, War film starring Rudolph Valentino, directed by Rex Ingram, and adapted from a novel by Vicente Blasco Ibanez.",
+    "relevant_documents": [
+      "Title: The Four Horsemen of the Apocalypse. Genres: Drama, Romance, War. Cast: Pomeroy Cannon, Josef Swickard, Bridgetta Clark, Rudolph Valentino. Directors: Rex Ingram. Countries: USA. Year: 1921."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "query": "Find a Western film from the 1920s directed by the same filmmaker who later became known for American epics such as Stagecoach.",
+    "ground_truth": "The Iron Horse (1924) is a Western film directed by John Ford, who is known for major American epic Westerns.",
+    "relevant_documents": [
+      "Title: The Iron Horse. Genres: Western. Cast: George O'Brien, Madge Bellamy, Charles Edward Bull, Cyril Chadwick. Directors: John Ford. Countries: USA. Languages: English. Year: 1924."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "query": "Identify a pre-World War I American film where the person responsible for the story also appeared on screen as a performer.",
+    "ground_truth": "Gertie the Dinosaur (1914) was written and directed by Winsor McCay, who also appeared in the cast.",
+    "relevant_documents": [
+      "Title: Gertie the Dinosaur. Genres: Animation, Short, Comedy. Cast: Winsor McCay, George McManus, Roy L. McCardell. Directors: Winsor McCay. Writers: Winsor McCay. Countries: USA. Languages: English. Year: 1914."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "query": "Which silent-era American short film used agrarian imagery to critique the concentration of economic power among a wealthy elite?",
+    "ground_truth": "A Corner in Wheat (1909), directed by D.W. Griffith, is a Short Drama that uses wheat and farming imagery to comment on wealth inequality.",
+    "relevant_documents": [
+      "Title: A Corner in Wheat. Genres: Short, Drama. Cast: Frank Powell, Grace Henderson, James Kirkwood, Linda Arvidson. Directors: D.W. Griffith. Countries: USA. Languages: English. Year: 1909."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "query": "In which early narrative film does the actor later nicknamed 'Broncho Billy' appear alongside George Barnes?",
+    "ground_truth": "Gilbert M. 'Broncho Billy' Anderson and George Barnes both appeared in The Great Train Robbery (1903), directed by Edwin S. Porter.",
+    "relevant_documents": [
+      "Title: The Great Train Robbery. Genres: Short, Western. Cast: A.C. Abadie, Gilbert M. 'Broncho Billy' Anderson, George Barnes, Justus D. Barnes. Directors: Edwin S. Porter. Countries: USA."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "query": "Which late 1920s American film won the first ever Academy Award for Outstanding Picture and depicted aerial combat during the Great War?",
+    "ground_truth": "Wings (1927) depicted aerial combat in World War I and won the Academy Award for Outstanding Picture at the first Academy Awards ceremony.",
+    "relevant_documents": [
+      "Title: Wings. Genres: Drama, Romance, War. Cast: Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston. Directors: William A. Wellman, Harry d'Abbadie d'Arrast. Countries: USA. Languages: English. Year: 1927."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "query": "Which 1928 animated short film introduced a character who would become one of the most recognisable icons in entertainment history, and was notable for its synchronised sound?",
+    "ground_truth": "Steamboat Willie (1928), directed by Walt Disney and Ub Iwerks, introduced Mickey Mouse and was one of the first cartoons to feature synchronised sound.",
+    "relevant_documents": [
+      "Title: Steamboat Willie. Genres: Animation, Family, Comedy. Cast: Walt Disney. Directors: Ub Iwerks, Walt Disney. Countries: USA. Languages: English. Year: 1928."
+    ],
+    "difficulty": "hard"
+  }
+]

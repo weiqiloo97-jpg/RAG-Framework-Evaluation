@@ -1,0 +1,4 @@
+Model,Difficulty,Count,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Noise Sensitivity,Robustness
+BM25 RAG,Easy,7,0.8350,0.8297,0.0000,0.0000,0.0000,0.0000
+BM25 RAG,Medium,7,0.8286,0.8233,0.0000,0.0000,0.0000,0.0000
+BM25 RAG,Hard,6,0.9292,0.7514,0.0000,0.0000,0.0000,0.0000

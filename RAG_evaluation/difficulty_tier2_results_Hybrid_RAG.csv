@@ -1,0 +1,4 @@
+Model,Difficulty,Count,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Noise Sensitivity,Robustness
+Hybrid RAG,Easy,7,0.9255,0.8258,0.0000,0.0000,0.0000,0.0000
+Hybrid RAG,Medium,7,0.8798,0.7867,0.0000,0.0000,0.0000,0.0000
+Hybrid RAG,Hard,6,0.8194,0.6521,0.0000,0.0000,0.0000,0.0000

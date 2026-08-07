@@ -1,0 +1,4 @@
+Model,Difficulty,Count,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Noise Sensitivity,Robustness
+Vector RAG,Easy,7,0.8779,0.8823,0.0000,0.0000,0.0000,0.0000
+Vector RAG,Medium,7,0.7547,0.7848,0.0000,0.0000,0.0000,0.0000
+Vector RAG,Hard,6,0.9678,0.6505,0.0000,0.0000,0.0000,0.0000
